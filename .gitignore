@@ -1,0 +1,11 @@
+# scratch: unzipped jar, vineflower output, intermediate deobfuscation passes
+work/
+
+# large hostile artifact - keep out of git unless you really want it (17 MB)
+stage2/9f4e7a2c1b8d.png
+
+__pycache__/
+*.pyc
+
+# malware binaries stay local - publish hashes + tooling, not the samples
+stage2/app.pyd.infected.zip

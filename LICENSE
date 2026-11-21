@@ -1,0 +1,21 @@
+License
+
+The writeup, analysis notes, reconstructions and tooling in this repository (everything except the
+malware artifacts listed below) are licensed under Creative Commons Attribution 4.0 International:
+
+    https://creativecommons.org/licenses/by/4.0/legalcode
+
+Short version: you may share and adapt this material for any purpose, including commercially, as long
+as you credit the author and indicate changes.
+
+Not covered by that license, and provided strictly for research, documentation and defence:
+
+  - stage2/extracted/AppHost/main.py   (part of the malware)
+
+The sample jar, the PNG payload carrier and app.pyd are deliberately not published here; they are
+identified by hash in IOCS.md and can be shared with researchers or vendors on request.
+  - stage1/deobfuscated/, protector/deobfuscated/  (decompiled/deobfuscated malware code)
+
+No rights are claimed or granted over the malware itself. If you republish this material, keep the
+warning that these artifacts are live malicious code and should only be handled in an isolated
+environment.

