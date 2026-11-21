@@ -1,14 +1,47 @@
 # Abuse reports and notifications
 
-Drafts, ready to paste. Send these **before** publishing the writeup if you want any chance of the
-infrastructure coming down — a public post tells the operator to rotate the contract address and the
-payload path.
+Drafts, ready to paste. The writeup is public now, so send these as soon as you can — the operator sees
+this repo too and will rotate the contract value and the payload path. The distribution channel (Discord)
+is the part worth killing regardless of rotation.
 
 Handling: never send the sample or the payload unpacked. Use the AES-256 zip
 (`stage2/app.pyd.infected.zip`, password `infected`) and lead with hashes so recipients can verify
 without touching anything.
 
 ---
+
+## 0. Discord — the distribution channel (highest impact, do this first)
+
+The jar is being handed out in a Discord server called **"Grim Client"**. Report via the Trust & Safety
+form at <https://dis.gd/report> (or in-app: right-click the invite/message → Report → Dangerous malware).
+Attach or paste the hashes so the report is actionable on its own.
+
+```
+Subject: Malware distribution - Discord server "Grim Client" (invite aKcdCMycct)
+
+A Discord server is distributing a Java stealer that steals Minecraft sessions, browser passwords,
+cookies, cards and Google tokens, Discord/Telegram/Steam/Roblox data and crypto wallet files.
+
+Server:  "Grim Client", guild id 1570465085434896484 (~469 members, verification level 0)
+Invite:  https://discord.gg/aKcdCMycct   (resolves from channel "announcement", id 1570467469276225576)
+
+Accounts advertising and handing out the file:
+  1484965203379749024  smoke_ttv    - inviter on that invite link, tells members to download and run it
+  1491118013666033776  zigg5173_alt - connected account
+  1480939734027993161  8xgw_        - connected account
+
+The file: Grim_Client_1.0.jar, 20,164,948 bytes
+         SHA-256 7de29255762284b7236ba7fdd00881220178c192fbbd124befad1d3995d0f79c
+It is disguised as a Minecraft "Full Bright" mod (the real addon's name, author string and UUIDs are
+copied verbatim) and reaches out to a C2 domain stored in a smart contract on Polygon.
+
+What I am asking for: removal of the invite/channel and action against the accounts distributing it.
+Analysis with IOCs and deobfuscated source: <link to this repo>
+```
+
+Also worth doing inside Discord, which is faster than email: report the specific messages where the file
+or invite is posted (each message report carries the exact context), and report the invite itself from the
+server discovery/invite page.
 
 ## 1. Cloudflare (the payload host is Cloudflare-fronted)
 

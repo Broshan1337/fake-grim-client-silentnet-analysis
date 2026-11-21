@@ -139,6 +139,22 @@ collected-archive names `Telegram_Data.zip`, `Steam_Tokens.txt`, `Roblox_Cookies
 Module names are stable and distinctive: `app.handlers.wallets`, `app.util.dll_injection`,
 `app.util.handle_copy`, `app.contract`, `app.staging`.
 
+## Distribution channels
+
+The jar is handed out in Discord. Identifiers below describe who is distributing it, not proof of authorship.
+
+```
+discord.gg/aKcdCMycct                     guild "Grim Client", id 1570465085434896484 (~469 members)
+                                          invite resolves from channel "🔔・announcement" (1570467469276225576)
+1484965203379749024   smoke_ttv           inviter on that link; tells people to download and run it
+1491118013666033776   zigg5173_alt        connected account (alt)
+1480939734027993161   8xgw_               connected account
+```
+
+Checked 2026-11-21 via the public invite endpoint (`/api/v9/invites/aKcdCMycct?with_counts=true`). The
+kit is sold under the name **SilentNet**; a third-party rat-scanning site claims to hold the dashboard's
+registered-user database after an exploit in that dashboard (unverified here).
+
 ## Class-name indicators (post-deobfuscation names are stable per build)
 
 ```

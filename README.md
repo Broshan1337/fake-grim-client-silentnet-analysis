@@ -8,6 +8,12 @@ says so. Everything below is what the bytes themselves show.
 > intended to help anyone operate it. Nothing here should be used maliciously. Payload files are
 > included only as evidence — treat them as hostile artifacts, handle in an isolated environment.
 
+> **Do not download or run anything from the places below.** The jar is being handed out in a Discord
+> server called **"Grim Client"** (invite `discord.gg/aKcdCMycct`, guild id `1570465085434896484`, ~469
+> members, unverified server). Anyone telling people to grab and run "the client" there is distributing
+> this stealer. Report the invite and the accounts to Discord Trust & Safety — see
+> [ABUSE_REPORTS.md](ABUSE_REPORTS.md) for a ready-to-send report.
+
 **Spot it in the wild:** an unsigned Minecraft mod jar that makes `eth_call` requests to Polygon RPC
 providers, then downloads a PNG whose size doesn't match its declared dimensions, then creates
 `%LOCALAPPDATA%\Microsoft\Windows\NtProfileIndex` containing `python.exe`, `AppHost\main.py` and
@@ -84,6 +90,36 @@ custom `ClassLoader`, XOR-keyed resources, arithmetic coder, JNA plumbing, nativ
 
 Everything here came from reading bytes — decompilers, `javap`, hex, and read-only lookups against
 public Polygon RPCs and Cloudflare DNS (`tools/c2_recon.py`).
+
+---
+
+## Who is pushing it
+
+Observed while tracking how this jar circulates. What follows is what I could see and check from the
+outside — it identifies who is *distributing* the sample, not proof of who wrote it.
+
+| Identifier | Detail |
+|---|---|
+| `discord.gg/aKcdCMycct` | Invite for the server advertising the client. Resolves to guild **"Grim Client"**, id `1570465085434896484`, ~469 members / ~454 online, verification level 0, invite posted from `🔔・announcement` (checked 2026-11-21) |
+| `1484965203379749024` — `smoke_ttv` | Display name "smoke". The inviter on that invite link, and the account telling people in the server to download and run it |
+| `1491118013666033776` — `zigg5173_alt` | Connected with the same operation (alt account) |
+| `1480939734027993161` — `8xgw_` | Connected with the same operation |
+
+The invite metadata above is public and reproducible:
+
+```bash
+curl -s "https://discord.com/api/v9/invites/aKcdCMycct?with_counts=true"
+```
+
+**On the name "SilentNet".** That is what this thing is sold as. Separately, a rat-scanning site reports
+holding a username database of everyone registered on SilentNet's malware dashboard, taken through an
+exploit found in that dashboard — i.e. people who bought or registered for the RAT are exposed. I have not
+verified that claim myself, so treat it as a lead rather than established fact; it is worth knowing either
+way, because it means buyers of this kit are not anonymous to whoever holds that dump.
+
+Practical advice: never run anything from that server or any similar "client"/"mod" invite, and report the
+invite plus the accounts through Discord's Trust & Safety form rather than confronting them — malware
+distribution reports get action, arguments in the server do not.
 
 ---
 
